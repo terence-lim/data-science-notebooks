@@ -183,7 +183,7 @@ by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 - Liu and Wu (2020), St Louis Fed FRED
 
 
-### Unsupervised learnin models for clustering economic series
+### Unsupervised learning models for clustering economic series
 
 [unsupervised_economics.ipynb](unsupervised_economics.ipynb)
 
