@@ -33,6 +33,7 @@ by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 [unsupervised_economics.ipynb](unsupervised_economics.ipynb)
 
 - KMeans, agglomerative, spectral clustering, nearest neighbors, PCA
+- isolated forest, minimum covariance determinant, local outlier factor
 - sklearn, FRED-MD
 
 ## Applications in Supervised Learning
@@ -41,15 +42,15 @@ by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 
 [dan_classifier.ipynb](dan_classifier.ipynb)
 
-- pytorch, deep averaging networks, word embeddings, spacy
-- S&P Key Developments, Wharton Research Data Services
+- deep averaging networks, word embeddings
+- pytorch, spacy, GloVe, S&P Key Developments
 
 ### Classification models and events text
 
 [classification_models.ipynb](classification_models.ipynb)
 
-- sklearn, naivebayes, logistic, linearsvc, mlp, decisiontree, wordcloud
-- text classification, S&P Key Developments, Wharton Research Data Services
+- naivebayes, logistic, linearsvc, mlp, decisiontree, wordcloud
+- sklearn, nltk, S&P Key Developments
 
 ### Binary classification of events text
 
@@ -57,7 +58,7 @@ by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 
 - text classification, logistic regression, stochastic gradient descent
 - precision, recall, ROC curve, sensitivity, specificity
-- S&P Key Developments, Wharton Research Data Services
+- S&P Key Developments
 
 ### Sentiment analysis of Edgar company filings
 
