@@ -60,9 +60,9 @@ by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 - precision, recall, ROC curve, sensitivity, specificity
 - S&P Key Developments
 
-### Sentiment analysis of Edgar company filings
+### Sentiment analysis of 10-K MD&A Edgar company filings
 
-[sec_sentiment.ipynb](sec_sentiment.ipynb)
+[mda_sentiment.ipynb](mda_sentiment.ipynb)
 
 - Cohen, Malloy and Nguyen (2020), Loughran and McDonald (2011), and others
 - sklearn, nltk, SEC Edgar, Wharton Research Data Services
