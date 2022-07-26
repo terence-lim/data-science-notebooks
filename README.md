@@ -8,8 +8,7 @@ repo.
 
 [https://github.com/terence-lim/data-science-notebooks](https://github.com/terence-lim/data-science-notebooks)
 
-## NOTE: These examples reflect an older version, hence do not match the modules code -- new versions
-of the notesbooks will be updated very soon.
+## NOTE: These examples reflect an older version, hence do not match the modules code -- new versions of the notesbooks will be updated very soon.
 
 by: [Terence Lim](https://www.linkedin.com/in/terencelim)
 
