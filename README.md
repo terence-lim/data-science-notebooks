@@ -47,7 +47,7 @@ presently in that repo.
 2. [Examine principal components of bond returns](bond_returns.ipynb)
    - Principal components analysis, bond returns
    
-2. Market microstructure: [Intra-day liquidity from tick data](market_microstructure.ipynb)
+2. [Market microstructure: Intra-day liquidity from tick data](market_microstructure.ipynb)
    - TAQ tick data; spreads, Lee-Ready tick test, intra-day volatility
 
 2. Event risk: Count dependent and aggregate loss models
