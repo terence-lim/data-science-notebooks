@@ -1,227 +1,149 @@
-# Data Science Notebooks
+# 30+ Financial Data Science Projects
 
-These Jupyter notebooks contain code examples and results output from
-exploring data science and machine learning methods on large and
-textual financial data sets.  They accompany the
-[https://github.com/terence-lim/financial-data-science](https://github.com/terence-lim/financial-data-science)
-repo.
+These Jupyter notebooks contain code examples and output from 30+
+financial data science projects, which apply quantitative and
+machine learning methods to large structured and unstructured
+financial data sets. They accompany the [FinDS Python
+repo](https://github.com/terence-lim/financial-data-science.git),
+but reflect an older version hence do not (yet) sync with the code and examples
+presently in that repo.
 
-[https://github.com/terence-lim/data-science-notebooks](https://github.com/terence-lim/data-science-notebooks)
+1. [Track stock identifier changes and price adjustments](stock_prices.ipynb)
+   - stock splits, dividends, identifiers, and total holding returns
 
-## NOTE: These examples reflect an older version, hence do not match the code in the new modules -- updated versions of the notebooks will be reloaded very soon.
+2. [Construct Jegadeesh-Titman rolling portfolios](jegadeesh_titman.ipynb)
+   - Newey-West correction; momentum effect
 
-by: [Terence Lim](https://www.linkedin.com/in/terencelim)
+3. [Construct Fama-French sorted portfolio](fama_french.ipynb)
+   - linear regression; value and size anomaly
 
-&nbsp;
+   ## Expected Returns
 
-## Applications in Unsupervised Learning
+4. [Estimate Fama-Macbeth cross-sectional regressions](fama_macbeth.ipynb)
+   - CAPM tests; polynomial regression; feature transformations
 
-### Topic models and FOMC meeting minutes
+5. [Backtesting a stock price reversal trading strategy](weekly_reversal.ipynb)
+   - Contrarian strategy; statistical arbitrage
+   - implementation shortfall; structural change with unknown breakpoint
 
-[fomc_topics.ipynb](fomc_topics.ipynb)
+2. [Event studies of key developments](event_study.ipynb)
+   - Abnormal returns; post-announcement drift; multiple testing
 
-- NMF, LSA, LDA, PLSI matrix decomposition models
+2. [Performance evaluation of factor investing](quant_factors.ipynb)
+   - Return predicting signals; performance evaluation
 
-### Text Analysis with 10-K Business Descriptions from Edgar
+   ## Risk
 
-[business_description.ipynb](business_description.ipynb)
+2. [Conditional volatility of cryptocurrencies](conditional_volatility.ipynb)
+   - Value at Risk, Expected Shortfall, GARCH, EWMA; bitcoin, etherium
 
-- part-of-speech tagging, lemmatizing, multilevel community detection
-- spacy, nltk, sklearn, igraph
-- Hoberg and Phillips (2016), SEC Edgar, Wharton Research Data Services
+2. [Covariance matrix estimates of industry returns](covariance_matrix.ipynb)
+   - Covariance Matrix: PCA, SVD, Shrinkage
+   - Risk Decomposition, Black-Litterman, Risk Parity
 
-### LSTM networks, state space models and mixtures from FRED-MD
+2. [Visualizing the term structure of interest rates](term_structure.ipynb)
+   - yield curve, duration, bootstrap
+   
+2. [Examine principal components of bond returns](bond_returns.ipynb)
+   - Principal components analysis, bond returns
+   
+2. Market microstructure: [Intra-day liquidity from tick data](market_microstructure.ipynb)
+   - TAQ tick data; spreads, Lee-Ready tick test, intra-day volatility
 
-[economic_states.ipynb](economic_states.ipynb)
+2. Event risk: Count dependent and aggregate loss models
+   - frequency and severity of actuarial risks
 
-- Long Short-Term Memory networks, hidden states, state space models, Gaussian mixtures
-- pytorch, hmmlearn, statsmodels, sklearn
-- Chen, Pelger and Zhu (2020) and others
 
-### Unsupervised learning models for clustering economic series
+   ## Econometric Methods
 
-[unsupervised_economics.ipynb](unsupervised_economics.ipynb)
+2. [Revisions of macroeconomic time series from ALFRED](revisions_vintage.ipynb)
+   - Archival-FRED, vintages
 
-- KMeans, agglomerative, spectral clustering, nearest neighbors, PCA
-- isolated forest, minimum covariance determinant, local outlier factor
-- sklearn, FRED-MD
+2. [Analyze linear regression gaussian assumptions](linear_diagnostics.ipynb)
+   - Residual analysis, outliers, leverage, influential points
+   - Multicollinearity; robust standard errors
 
-## Applications in Supervised Learning
+2. [Forecast inflation time series](econometric_forecast.ipynb)
+   - trends, stationarity, seasonality, ARMA, smoothing, cointegration
+   - granger causality, impulse response function
 
-### DAN for text classification
+2. [Approximate factor model of FRED-MD macroeconomic series](approximate_factors.ipynb)
+   - PCA-EM, unit root
 
-[dan_classifier.ipynb](dan_classifier.ipynb)
 
-- deep averaging networks, word embeddings
-- pytorch, spacy, GloVe, S&P Key Developments
 
-### Classification models and events text
+   ## Network Science
 
-[classification_models.ipynb](classification_models.ipynb)
+2. [Ego network of principal customers supply chain](customer_ego.ipynb)
+   - Induced subgraph, ego network
 
-- naivebayes, logistic, linearsvc, mlp, decisiontree, wordcloud
-- sklearn, nltk, S&P Key Developments
+2. [Centrality measures of BEA input-output tables](bea_centrality.ipynb)
+   - Graph centrality algorithms
 
-### Binary classification of events text
+2. [Community detection for industry sectoring](industry_community.ipynb)
+   - Community detection graph algorithms
 
-[keydev_classifier.ipynb](keydev_classifier.ipynb)
+2. [Link prediction on company relationships](link_prediction.ipynb)
+   - Accuracy metrics; imbalanced sample
+   - Random graphs, link prediction graph algorithms
 
-- text classification, logistic regression, stochastic gradient descent
-- precision, recall, ROC curve, sensitivity, specificity
-- S&P Key Developments
 
-### Sentiment analysis of 10-K MD&A Edgar company filings
+   ## Text Mining
 
-[mda_sentiment.ipynb](mda_sentiment.ipynb)
+2. [Logistic regression for text classification of key developments
+financial news](keydev_classifier.ipynb)
+   - Logistic regression, stochastic gradient descent
 
-- Cohen, Malloy and Nguyen (2020), Loughran and McDonald (2011), and others
-- sklearn, nltk, SEC Edgar, Wharton Research Data Services
+2. [Sentiment analysis of 10-K management discussion text](mda_sentiment.ipynb)
+   - SEC Edgar, Loughran-MacDonald dictionary
 
-### Approximate factor models, VAR and TCN from FRED-MD
+2. [Syntactic analysis of 10-K business descriptions for industry
+classifications](business_description.ipynb)
+   - Softmax regression; POS tagging, named entity recognition
 
-[approximate_factors.ipynb](approximate_factors.ipynb)
+2. [Topic modeling of FOMC meeting minutes](fomc_topics.ipynb)
+   - Matrix decomposition algorithms
 
-- PCA, EM, vector autoregression, temporal convolutional networks
-- Bai and Ng (2002), McCracken and Ng (2016), and others
 
-### Supervised learning models for regression
+   ## Machine Learning
 
-[regression_models.ipynb](regression_models.ipynb)
+2. [Compare classification models for key developments financial news
+classification](classification_models.ipynb)
+   - Generalized linear models, SVM, KNN, Naive-Bayes, decision tree
+   - Cross-validation, feature importances
 
-- subset selection, partial least squares, ridge, lasso regression
-- cross validation, feature importances, dimension reduction
-- gradient boosting, random boosting, ensembles
-- sklearn, statsmodels, St Louis Fed FRED, GDP
+2. [Compare regression models for inflation prediction](regression_models.ipynb)
+   - Subset selection, dimensional reduction, penalized least squares, ensembles
+   - Regularization
 
-## Applications in Linear Regression
+2. Unsupervised learning: Cluster analysis of factor risk premiums
+   - K-Means, hierarchical clustering
 
-### Forecasting and Econometrics
+2. [Estimate state space economic models](economic_states.ipynb)
+   - Mixture models, hidden markov models
 
-[econometric_forecast.ipynb](econometric_forecast.ipynb)
+2. Bayesian belief networks for fraud detection
 
-- seasonality, spectral density, unit root, stationarity
-- autocorrelation functions, AR, MA, SARIMAX
-- scipy, statsmodels, seaborn, St Louis Fed FRED
 
-### Linear regression diagonostics and residual plots
+   ## Deep Learning
 
-[linear_diagnostics.ipynb](linear_diagnostics.ipynb)
+2. [Tune word embeddings for text classification](dan_classifier.ipynb)
+   -  Deep averaging networks, Feed forward neural net
 
-- linear regression assumptions, residual plots, robust standard errors
-- outliers, leverage, multicollinearity
-- statsmodels, St Louis Fed FRED
+2. [Recurrent neural network and dynamic factor models](elman_kalman.ipynb)
+   - Long short term memory (LSTM), kalman filter
 
-### Economic time series and releases
+2. Train language model of fedspeak
 
-[revisions_vintage.ipynb](revisions_vintage.ipynb)
+2. [Temporal convolutional networks and VAR](tcn_var.ipynb)
+   - Convolutional neural network, vector autoregression
 
--  revisions and vintages, St Louis Fed FRED/ALFRED
+2. Deep reinforcement learning and derivatives pricing
 
-## Applications in Risk Modelling
 
-### Market microstructure
+   ## Big Data and the Cloud
 
-[market_microstructure.ipynb](market_microstructure.ipynb)
+2. Big data
+   - Hadoop, Spark, Hive
 
-- intraday liquidity, variance ratio, effective spreads, tick sign test
-- tick data, NYSE Daily TAQ 
-
-### Factor and empirical covariance matrix from NYSE TAQ
-
-[taq_covariance.ipynb](taq_covariance.ipynb)
-
-- covariance matrix shrinkage, PCA, minimum variance portfolios
-- high frequency tick data, NYSE Daily TAQ
-
-### Conditional volatility models
-
-[conditional_volatility.ipynb](conditional_volatility.ipynb)
-
-- Value at Risk, GARCH, EWMA, Scholes-Williams Beta
-- VIX, Bitcoin, St Louis Fed FRED
-
-### Bond market index components and interest rate indicators
-
-[bond_returns.ipynb](bond_returns.ipynb)
-
-- PCA, St Louis Fed FRED
-
-### Term structure of interest rates
-
-[term_structure.ipynb](term_structure.ipynb)
-
-- bootstrap, splines, yield curve, duration
-- Liu and Wu (2020), St Louis Fed FRED
-
-## Applications in Network Science
-
-### Social network analysis of BEA industries
-
-[social_iouse.ipynb](social_iouse.ipynb)
-
-- Input-Output Use Tables, Social Relations Regression Model
-- igraph, rpy2, Bureau of Economic Analysis
-
-### Graph centrality and BEA input-output use tables
-
-[bea_centrality.ipynb](bea_centrality.ipynb)
-
-- igraph, network, centrality, BEA Input-Output Use Table
-- Choi and Foerster (2017), Bureau of Economic Analysis, and others
-
-### Industry sectoring
-
-[industry_community.ipynb](industry_community.ipynb)
-
-- igraph, community detection, modularity
-- Text-based Network Industry Classification (Hoberg and Phillips, 2016)
-
-### Principal customers network
-
-[customer_ego.ipynb](customer_ego.ipynb)
-
-- igraph, ego graph, betweenness centrality
-- S&P Compustat, Wharton Research Data Services
-
-## Applications in Quantitative Finance
-
-### Event Study Abnormal Returns
-
-[event_study.ipynb](event_study.ipynb)
-
-- CAR, BHAR, post-event drift, order statistics, Bonferroni adjustment
-- S&P Key Developments, Wharton Research Data Services
-
-### Weekly reversals strategy
-
-[weekly_reversal.ipynb](weekly_reversal.ipynb)
-
-- information coefficient, slippage, cross-sectional dispersion
-- structural breaks, unknown changepoint
-- rpy2, CRSP, Wharton Research Data Services
-
-### Factor investing
-
-[quant_factors.ipynb](quant_factors.ipynb)
-
-- return predicting signals, portfolios sorts, backtests
-- CRSP, Compustat, IBES, Wharton Research Data Services
-- Green, Hand and Zhang (2013) and others
-
-### Risk premiums from Fama-Macbeth cross-sectional regressions
-
-[fama_macbeth.ipynb](fama_macbeth.ipynb)
-
-- pandas datareader, Fama French data library
-
-### Fama-French and momentum research factors
-
-[fama_french.ipynb](fama_french.ipynb)
-
-- CRSP, Compustat, Wharton Research Data Services
-
-### Current Market Estimates
-
-[realtime_monitor.py](realtime_monitor.py)
-
-- UNDER CONSTRUCTION
+2. Cloud computing
