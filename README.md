@@ -8,7 +8,7 @@ repo](https://github.com/terence-lim/financial-data-science.git),
 but reflect an older version hence do not (yet) sync with the code and examples
 presently in that repo.
 
-1. [Track stock identifier changes and price adjustments](stock_prices.ipynb)
+1. [Stock identifier changes and price adjustments](stock_prices.ipynb)
    - stock splits, dividends, identifiers, and total holding returns
 
 2. [Construct Jegadeesh-Titman rolling portfolios](jegadeesh_titman.ipynb)
