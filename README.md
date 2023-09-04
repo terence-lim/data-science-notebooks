@@ -1,149 +1,66 @@
-# 30+ Financial Data Science Projects
+# Financial Data Science Notebooks
 
-These Jupyter notebooks contain code examples and output from 30+
-financial data science projects, which apply quantitative and
-machine learning methods to large structured and unstructured
-financial data sets. They accompany the [FinDS Python
-repo](https://github.com/terence-lim/financial-data-science.git),
-but reflect an older version hence do not (yet) sync with the code and examples
-presently in that repo.
-
-1. [Stock identifier changes and price adjustments](stock_prices.ipynb)
-   - stock splits, dividends, identifiers, and total holding returns
-
-2. [Construct Jegadeesh-Titman rolling portfolios](jegadeesh_titman.ipynb)
-   - Newey-West correction; momentum effect
-
-3. [Construct Fama-French sorted portfolio](fama_french.ipynb)
-   - linear regression; value and size anomaly
-
-   ## Expected Returns
-
-4. [Estimate Fama-Macbeth cross-sectional regressions](fama_macbeth.ipynb)
-   - CAPM tests; polynomial regression; feature transformations
-
-5. [Backtesting a stock price reversal trading strategy](weekly_reversal.ipynb)
-   - Contrarian strategy; statistical arbitrage
-   - implementation shortfall; structural change with unknown breakpoint
-
-2. [Event studies of key developments](event_study.ipynb)
-   - Abnormal returns; post-announcement drift; multiple testing
-
-2. [Performance evaluation of factor investing](quant_factors.ipynb)
-   - Return predicting signals; performance evaluation
-
-   ## Risk
-
-2. [Conditional volatility of cryptocurrencies](conditional_volatility.ipynb)
-   - Value at Risk, Expected Shortfall, GARCH, EWMA; bitcoin, etherium
-
-2. [Covariance matrix estimates of industry returns](covariance_matrix.ipynb)
-   - Covariance Matrix: PCA, SVD, Shrinkage
-   - Risk Decomposition, Black-Litterman, Risk Parity
-
-2. [Visualizing the term structure of interest rates](term_structure.ipynb)
-   - yield curve, duration, bootstrap
-   
-2. [Examine principal components of bond returns](bond_returns.ipynb)
-   - Principal components analysis, bond returns
-   
-2. [Market microstructure: Intra-day liquidity from tick data](market_microstructure.ipynb)
-   - TAQ tick data; spreads, Lee-Ready tick test, intra-day volatility
-
-2. Event risk: Count dependent and aggregate loss models
-   - frequency and severity of actuarial risks
+_UNDER CONSTRUCTION_
 
 
-   ## Econometric Methods
-
-2. [Revisions of macroeconomic time series from ALFRED](revisions_vintage.ipynb)
-   - Archival-FRED, vintages
-
-2. [Analyze linear regression gaussian assumptions](linear_diagnostics.ipynb)
-   - Residual analysis, outliers, leverage, influential points
-   - Multicollinearity; robust standard errors
-
-2. [Forecast inflation time series](econometric_forecast.ipynb)
-   - trends, stationarity, seasonality, ARMA, smoothing, cointegration
-   - granger causality, impulse response function
-
-2. [Approximate factor model of FRED-MD macroeconomic series](approximate_factors.ipynb)
-   - PCA-EM, unit root
+__30+ Projects in Financial Data Science__, presented as Jupyter Notebooks, using the _FinDS_ Python package
 
 
 
-   ## Network Science
-
-2. [Ego network of principal customers supply chain](customer_ego.ipynb)
-   - Induced subgraph, ego network
-
-2. [Centrality measures of BEA input-output tables](bea_centrality.ipynb)
-   - Graph centrality algorithms
-
-2. [Community detection for industry sectoring](industry_community.ipynb)
-   - Community detection graph algorithms
-
-2. [Link prediction on company relationships](link_prediction.ipynb)
-   - Accuracy metrics; imbalanced sample
-   - Random graphs, link prediction graph algorithms
+## Topics
 
 
-   ## Text Mining
-
-2. [Logistic regression for text classification of key developments
-financial news](keydev_classifier.ipynb)
-   - Logistic regression, stochastic gradient descent
-
-2. [Sentiment analysis of 10-K management discussion text](mda_sentiment.ipynb)
-   - SEC Edgar, Loughran-MacDonald dictionary
-
-2. [Syntactic analysis of 10-K business descriptions for industry
-classifications](business_description.ipynb)
-   - Softmax regression; POS tagging, named entity recognition
-
-2. [Topic modeling of FOMC meeting minutes](fomc_topics.ipynb)
-   - Matrix decomposition algorithms
-
-
-   ## Machine Learning
-
-2. [Compare classification models for key developments financial news
-classification](classification_models.ipynb)
-   - Generalized linear models, SVM, KNN, Naive-Bayes, decision tree
-   - Cross-validation, feature importances
-
-2. [Compare regression models for inflation prediction](regression_models.ipynb)
-   - Subset selection, dimensional reduction, penalized least squares, ensembles
-   - Regularization
-
-2. Unsupervised learning: Cluster analysis of factor risk premiums
-   - K-Means, hierarchical clustering
-
-2. [Estimate state space economic models](economic_states.ipynb)
-   - Mixture models, hidden markov models
-
-2. Bayesian belief networks for fraud detection
-
-
-   ## Deep Learning
-
-2. [Tune word embeddings for text classification](dan_classifier.ipynb)
-   -  Deep averaging networks, Feed forward neural net
-
-2. [Recurrent neural network and dynamic factor models](elman_kalman.ipynb)
-   - Long short term memory (LSTM), kalman filter
-
-2. Train language model of fedspeak
-
-2. [Temporal convolutional networks and VAR](tcn_var.ipynb)
-   - Convolutional neural network, vector autoregression
-
-2. Deep reinforcement learning and derivatives pricing
+| notebook | Financial | Data | Science |
+|:--|:--|:--|:--|
+| stock_prices | Stock distributions, delistings | CRSP stocks | Sample selection |
+| jegadeesh_titman | Overlapping portfolios; <br> Momentum | CRSP stocks | Hypothesis testing; <br> Newey-West correction |
+| fama_french | Bivariate sorts;  <br> Value, Size;  <br> CAPM | CRSP stocks;  <br> Compustat |  Linear regression; <br> Quadratic programming |
+| fama_macbeth | Cross-sectional Regressions; <br> Beta | Ken French data library | Feature transformations; <br> Kernel regression, LOOCV |
+| weekly_reversals | Mean reversion; <br> Implementation shortfall | CRSP stocks | Structural break tests |
+| quant_factors | Factor zoo; <br> Performance evaluation | CRSP stocks; <br> Compustat; IBES | Clustering for unsupervised learning |
+| event_study | Event studies | S&P key developments | Multiple testing; <br> FFT |
+| economic_releases |  Macroeconomic analysis; <br> Unemployment | ALFRED | Economic data revisions |
+| regression_diagnostics | Regression analysis; <br> Inflation | FRED | Linear regression diagnostics; <br> Residual Analysis |
+| econometric_forecast | Time series analysis; <br> National Output | FRED | Stationarity, Autocorrelation |
+| approximate_factors | Approximate factor models | FRED-MD | Unit Root; <br> PCA; <br> EM Algorithm |
+| economic_states | State space models | FRED-MD | Gaussian Mixture; <br> HMM; <br> Kalman Filter |
+| conditional_volatility | Value at risk; <br> Conditional volatility | FRED cryptos and currencies | ARCH, GARCH; <br> VaR, TVaR |
+| covariance_matrix | Covariance matrix estimation; <br> Portfolio risk | Ken French data library | Shrinkage |
+| term_structure | Interest rates, yield curve | FRED | Splines, PCA |
+| bond_returns | Bond portfolio returns | FRED | SVD |
+| option_pricing | Binomial trees; <br> the Greeks | OptionMetrics; <br> FRED | Simulations |
+| market_microstructure | Liquidity costs; <br> Bid-ask spreads | TAQ tick data | Realized volatility; Variance ratio |
+| event_risk | Earnings surprises | IBES; <br>  FRED-QD | Poisson regression; <br> GLM's |
+| customer_ego | Principal customers | Compustat customer segments | Graph Networks |
+| bea_centrality | Input-output use tables | Bureau of Economic Analysis | Graph centrality |
+| industry_community | Industry sectors | Hoberg&Phillips data library | Community detection |
+| link_prediction | Product markets | Hoberg&Phillips data library | Links prediction |
+| spatial_regression | Earnings surprises | IBES; <br> Hoberg&Phillips data library | Spatial regression |
+| fomc_topics | Fedspeak | FOMC meeting minutes | Topic modelling |
+| mda_sentiment | Company filings | SEC Edgar | Sentiment analysis |
+| business_description | Growth and value stocks | SEC Edgar | Part-of-speech tagging |
+| classification_models | News classification | S&P key developments | Classification for supervised learning |
+| regression_models | Macroeconomic forecasting | FRED-MD | Regression for supervised learning |
+| deep_classifier | News classification | S&P key developments | Feedforward neural networks; <br> Word embeddings; <br> Deep averaging |
+| convolutional_net | Macroeconomic forecasting | FRED-MD | Temporal convolutional networks; <br> Vector autoregression |
+| recurrent_net | Macroeconomic forecasting | FRED-MD | Elman recurrent networks; <br> Kalman filter |
+| fomc_language | Fedspeak | FOMC meeting minutes | Language modelling; <br> Transformers |
+| reinforcement_learning | Spending policy | Stocks, bonds, bills, and inflation | Reinforcement learning |
 
 
-   ## Big Data and the Cloud
+## Resources
 
-2. Big data
-   - Hadoop, Spark, Hive
+1. [Online Jupyter-book](https://terence-lim.github.io/data-science-notebooks/), or [download pdf](https://terence-lim.github.io/notes/data-science-notebooks.pdf)
 
-2. Cloud computing
+2. [FinDS API reference](https://terence-lim.github.io/financial-data-science/)
+
+3. [FinDS repo](https://github.com/terence-lim/finds)
+
+4. [Jupyter notebooks repo](https://github.com/terence-lim/finds-notebooks)
+
+
+## Contact
+
+Github: [https://terence-lim.github.io](https://terence-lim.github.io)
+
+
