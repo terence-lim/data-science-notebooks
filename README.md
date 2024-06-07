@@ -1,16 +1,16 @@
 # FINANCIAL DATA SCIENCE
 
 
-_Financial Data Science_ with __FinDS__ Python package in Jupyter-notebooks:
+_Financial Data Science_, with __FinDS__ [Python package](https://github.com/terence-lim/financial-data-science), in [Jupyter notebooks](https://terence-lim.github.io/finds-notebooks/):
 
-- use database engines SQL, MongoDB, Redis
+- use database engines SQL, Redis, MongoDB
 - interfaces for
   - structured data from CRSP, Compustat, IBES, TAQ
   - APIs from ALFRED, BEA
   - unstructured data from SEC Edgar, Federal Reserve websites
   - academic websites by Ken French, Loughran and MacDonald, Hoberg and Phillips
 - recipes for econometrics, finance, graphs, event studies, backtesting
-- applications of statistics, machine learning, neural networks and large language models
+- applications of statistics, machine learning, NLP, neural networks and LLMs.
 
 
 ## Topics
