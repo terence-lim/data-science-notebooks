@@ -1145,7 +1145,7 @@ choose to work for the company that also supports charitable causes.
 Although it is not easy to validate answers to a hypothetical question,
 companies are often able to document their success in attracting
 certain top candidates based on those candidates exposure to the
-company s philanthropic causes and therefore can claim some legitimate
+company's philanthropic causes and therefore can claim some legitimate
 credit for the philanthropy's role in successful recruitment. 
 
 A model for measuring the influence of corporate philanthropic initiatives on
@@ -1159,8 +1159,8 @@ Identification is a psychological concept that in this context
 reflects the extent to which employees feel that their sense of self
 overlaps with that of their employer An anecdotal measure of
 identification is the use of we statements by employees who identify
-strongly with their company i e who have internalized the distinction
-between we insiders and people outside CB Bhattacharya, Sankar Sen
+strongly with their company i.e. who have internalized the distinction
+between we insiders and people outside. CB Bhattacharya, Sankar Sen
 and Daniel Korschun (2008), researchers from Boston University and
 Baruch College, found that employees who identify strongly with their
 company view its success as their own and exhibit higher performing
@@ -1168,35 +1168,35 @@ job behaviors to ensure that success. Caroline Bartel (2001) from New
 York University and David Jones (2007) from the University of Vermont
 reported field evaluations whereby they measured both attitudinal
 and work behavior changes of employees who participated in the
-irrespective company s community outreach programs Their research
+irrespective company's community outreach programs. Their research
 supported the finding that employees involved in philanthropic
 initiatives showed a statistically significant increase in their sense
 of identification with the irrespective companies This improvement in
 employee attitudes towards their companies was in turn correlated to
 an improvement in job performance.
  
-Through awareness of and participation in their employer s
+Through awareness of and participation in their employer's
 philanthropic activities employees can also fulfill several
-fundamental emotional needs The studies noted that the range of
+fundamental emotional needs. The studies noted that the range of
 emotional needs is quite diverse and companies often do not understand
-them well 
+them well.
 
-1. Collective self esteem Employees want to feel positive
+1. Collective self esteem. Employees want to feel positive
 about their company and want others to view the company positively as
-well 
+well.
 
-2. Self development Employees can use philanthropic opportunities
+2. Self development. Employees can use philanthropic opportunities
 both to express a personal sense of community responsibility and to
-learn specific career advancement skills Several major pharmaceuticals
+learn specific career advancement skills. Several major pharmaceuticals
 and companies in other industries for example maintain programs 16 in
 which top professionals apply their skill sets to work with external
 nonprofit partners sometimes in remote foreign locations and this
-experience hones those skill sets Pfizer 17 has made available an
+experience hones those skill sets. Pfizer has made available an
 evaluation of the impact of its Global Health Fellows Program on
 recipient organizations along with a toolkit that other companies can
-use to measure their own international corporate volunteering programs
+use to measure their own international corporate volunteering programs.
 
-3. Improving work and personal life integration Employees interpret
+3. Improving work and personal life integration. Employees interpret
 employers philanthropic behavior as an indication that the employer
 values personal life as much as the employee does particularly when
 the philanthropy benefits the employee s own social communities.
@@ -1207,14 +1207,14 @@ demonstrate a bond among employees regardless of location This is
 especially important as work forces become increasingly globally
 dispersed 
 
-5. Creating a reputation shield Corporate philanthropy can
+5. Creating a reputation shield. Corporate philanthropy can
 help employees combat negative public feedback about a company by
 giving them material with which to educate external audiences about
-the company score values and efforts To measure the impact of
+the company score values and efforts. To measure the impact of
 corporate philanthropy on employee engagement companies can use
 internal surveys to assess the extent to which the philanthropic
 program is meeting employee needs and creating a greater sense of
-identity between employee and employer This assessment should take
+identity between employee and employer. This assessment should take
 into account the relative importance that different employee segments
 attach to different intrinsic needs.
 
@@ -1238,7 +1238,7 @@ conduct.
 Figure 7 Representative
 Metrics and Survey Instruments from Research Studies in Employee
 Engagement Employee Attitude References Metrics and Survey Instruments
-or Job Behavior Collective self L uht an en Survey completed by
+or Job Behavior Collective self Luhtanen Survey completed by
 employees with eight item esteem Crocker 1992 scale to reflect a
 member s personal evaluation of the group private collective self
 esteem as well as his or her assessment of how non members evaluate
@@ -1272,7 +1272,7 @@ into account when making decisions that affect others 7 Tries not to
 make things more difficult for others at work. 
 
 Figure 7 Representative Metrics and Survey Instruments
-from Research Studies in Employee Engagement continued Employee
+from Research Studies in Employee Engagement Employee
 Attitude References Metrics and Survey Instruments or Job Behavior 8
 Goes out of his her way to help co workers with difficult assignments
 9 Offers to help others who have heavy workloads 10 Covers for absent
@@ -1295,167 +1295,173 @@ and skills current 3 Encourages others to speak up and participate in
 meetings 4 Does not push co workers to establish higher standards at
 work 5 Keeps self well informed where his her opinion might matter 6
 Helps co workers think for themselves 7 Frequently gives co workers
-creative suggestions for ways of accomplishing tasks Figure 7 lists
+creative suggestions for ways of accomplishing tasks.
+
+Figure 7 lists
 the metrics and survey instruments whereby respondents are asked to
-score on a numerical scale used in representative studies Bart el s
+score on a numerical scale used in representative studies. Bartel's
 2001 study posed survey questions to employees and their supervisors
-both before and after the employees participated in the company s
-community outreach program To form a control group supervisors were
+both before and after the employees participated in the company's
+community outreach program. To form a control group supervisors were
 also asked to evaluate a group of non participants Comparing
-differences in pre and post program survey reports Bart el found that
+differences in pre and post program survey reports. Bartel found that
 participation enhanced the collective self esteem of employees In turn
 those employees also perceived a 
-statistically stronger level of identification with the company For
+statistically stronger level of identification with the company. For
 employees whose organizational identification became stronger their
 supervisors reported higher interpersonal co operation and work
 related effort whereas the supervisors reported no statistically
-significant changes in any work behavior by the control group Bart el
+significant changes in any work behavior by the control group. Bartel
 also measured and controlled for other factors that might have
 influenced her results such as employee characteristics like length of
-tenure prior community outreach experience and job responsibilities To
+tenure prior community outreach experience and job responsibilities. To
 quantify the financial value of improved employee behavior one can
 estimate a statistical regression model of how much employees
-organizational identification correlated to productivity value The
+organizational identification correlated to productivity value. The
 underlying data supporting such analysis needs to come from linking
 employee survey results to HR data such as performance reviews and
-productivity metrics Relative employee performance rankings efficiency
+productivity metrics. Relative employee performance rankings efficiency
 attendance retention and other employee attributes then must be
-translated to relative dollar values 18 To improve the model s
+translated to relative dollar values. To improve the model's
 statistical validity and to justify this performance proxy other
 control variables must be accounted for such as job definition
-location training age and company tenure Given the overlap of this
-analysis with broader H Revaluations it is sensible to integrate this
-exercise into HR s systematic procedures Designing and implementing a
+location training age and company tenure. Given the overlap of this
+analysis with broader HR evaluations it is sensible to integrate this
+exercise into HR's systematic procedures. Designing and implementing a
 centralized form of measurement reduces survey fatigue and ensures the
-consistency and comprehensiveness of surveys data and approach Figure
+consistency and comprehensiveness of surveys data and approach. Figure
 8 outline show once a general model is built and calibrated financial
 returns can be estimated by applying the model to employees survey
-scores Researchers in HR management 19 have noted that many senior
-company managers maybe more pragmatic about what H Revaluation can
+scores. Researchers in HR management have noted that many senior
+company managers maybe more pragmatic about what HR evaluation can
 measure and do not need to quantify the financial benefit from HR
-programs they believe it is Figure 8 Model to Estimate the Influential
+programs they believe it is. 
+
+Figure 8 Model to Estimate the Influential
 Value of Corporate Philanthropic Initiatives on Employee Productivity
 Measure increase in level Estimate dollar value of Estimated value of
 of employees x increase in productivity employee productivity
 identification with from employees with company greater identification
-with company e g analysis of pre and post activity surveys e g
+with company e.g. analysis of pre and post activity surveys e.g.
 estimate regression model statistically from study where data from
 employee surveys have been linked to performance ratings and
 productivity metrics sufficient to measure that
 individual employees motivational needs are met and their emotional
-attitudes towards the organization improved Customer loyalty Marketing
+attitudes towards the organization improved. 
+
+Customer loyalty Marketing
 managers have long recognized that securing customer loyalty is a
 valuable goal partly because retaining customers tends to require
-fewer marketing resources than recruiting new ones Moreover customer
+fewer marketing resources than recruiting new ones. Moreover customer
 loyalty consistently shows high correlation to sales growth and
-profitability Loyal customers demonstrate several pro company
-behaviors they tend tore purchase the company s product or service
+profitability. Loyal customers demonstrate several pro-company
+behaviors: they tend to repurchase the company's product or service,
 commit a higher share of their category spending to the company and
-are more likely to recommend the company or brand to new customers 20
+are more likely to recommend the company or brand to new customers.
 Traditional marketing strategies often focus on customer loyalty
 scores and on improving loyalty by enhancing customers perceptions of
-the product s quality and value The perception of a company s values
+the product's quality and value. The perception of a company's values
 through its philanthropic programs also matters of course All else
 being equal a consumer is more likely to choose a product made by a
-highly responsible company than one made by a less responsible one
+highly responsible company than one made by a less responsible one.
 Geoffrey Heal 2008 of Columbia Business School recounted the customer
-research experience of a consumer goods company The company had built
+research experience of a consumer goods company. The company had built
 a customer loyalty model based on a composite of its customers
 responses to seven survey instruments whether they 1 ask for the brand
 2 re purchase the same brand 3 recommend the brand 4 use other
 products by the same brand 5 overrule a salesperson pushing another
-brand 6 will only buy the brand and or 7 switch stores for the brand
+brand 6 will only buy the brand and or 7 switch stores for the brand.
 Passionately loyal customers are defined as those who answer
-affirmatively to atleast four of those seven questions The company
+affirmatively to at least four of those seven questions. The company
 estimated that a one percentage point increase in their brand s
 Customer Loyalty Index CLI the percentage of all customers who are
-passionately loyal translated into a nearly 5 increase in sales
-Furthermore the company s research revealed that its customers
+passionately loyal translated into a nearly 5 percentage increase in sales.
+Furthermore the company's research revealed that its customers
 emotional motivations were twice as important as product
-considerations in driving brand loyalty Out of about fifty touch
+considerations in driving brand loyalty. Out of about fifty touch
 points tested social responsibility was among the top five important
-factors to consumers in terms of loyalty Accordingly the company
+factors to consumers in terms of loyalty. Accordingly the company
 learned that it could increase its emotional connection with consumers
 by tying its brand to the company s commitment to a social cause.
 
 A model for measuring the influence
-of corporate philanthropy initiatives on customer loyalty Customer
+of corporate philanthropy initiatives on customer loyalty. Customer
 loyalty scores are typically measured by surveys that ask consumers to
 rank their intention store purchase or recommend a product according
-to a numerical scale Measuring customer intentions rather than actual
+to a numerical scale. Measuring customer intentions rather than actual
 purchasing behaviors provides companies with a more timely and
-operable loyalty assessment Researchers may implement different
+operable loyalty assessment. Researchers may implement different
 proxies however ranging from a composite survey that measures multiple
 customer intentions to a single best metric like the Net Promoter
-Score 21 which is based on customers intention tore purchase Companies
+Score  which is based on customers intention to repurchase. Companies
 periodically validate intentions by following upon customers actual
-behaviors This more involved validation exercise also allows the
+behaviors. This more involved validation exercise also allows the
 company to calibrate how much sales growth can be expected as a result
-of increased loyalty Because marketing managers have a company's
+of increased loyalty. Because marketing managers have a company's
 traditionally focused on product or service philanthropic involvement
 performance as drivers for customer loyalty can lead customers to the
 attention has long been on customer feel a deeper sense of
-satisfaction and trust in the brand But identification with the
-customer awareness of a company s company and develop a philanthropic
+satisfaction and trust in the brand. But identification with the
+customer awareness of a company's company and develop a philanthropic
 efforts is an additional more positive evaluation channel by which
-loyalty can be achieved of the company s Presenting the findings of a
+loyalty can be achieved of the company's. Presenting the findings of a
 telephone abilities survey conducted among a national sample of 1033
-adults the 2004 Cone Corporate Citizenship Study reported that eight
+adults, the 2004 Cone Corporate Citizenship Study reported that eight
 in ten Americans agree that corporate support of a cause wins their
-trust Moreover 86 said that if the quality and price of a product are
+trust. Moreover 86 said that if the quality and price of a product are
 equal they would be likely to switch brands in order to help support a
-cause Field research studies have shown that a company s philanthropic
+cause. Field research studies have shown that a company's philanthropic
 involvement can lead customers to feel a deeper sense of
 identification with the company and develop a more positive evaluation
-of the company s abilities and that this results in product purchases
+of the company's abilities and that this results in product purchases.
 However these studies have also found and emphasized that the pathway
 from customer awareness of corporate philanthropy to loyalty is less
 straightforward than hypothetical marketplace polls and surveys
-suggest Victoria Smith and Peter Langford 2009 from Macquarie
+suggest. Victoria Smith and Peter Langford 2009 from Macquarie
 University in Australia and CB Bhattacharya and
 Sankar Sen (2004) from Boston University and Baruch College document
 that customers perceptions and expectations can be complex when
-confronted with a company s corporate philanthropic record and suggest
+confronted with a company's corporate philanthropic record and suggest
 that this affects how much philanthropic initiatives actually do
-translate into increased loyalty and purchases Consumers lack of
+translate into increased loyalty and purchases. Consumers lack of
 awareness about philanthropic initiatives is often a major limiting
-factor in their ability to respond At the sametime disingenuous
-attempts by the company to sell philanthropy can backfire
+factor in their ability to respond. At the same time disingenuous
+attempts by the company to sell philanthropy can backfire.
 Philanthropic initiatives are more likely to lead to positive customer
 behaviors when the cause is perceived to fit well within a company s
-overall strategy Consumers view companies that base their business
+overall strategy. Consumers view companies that base their business
 strategies around socially responsible principles more positively than
-companies that attempt social responsibility as an add on action
+companies that attempt social responsibility as an add on action.
 Consumers maybe skeptical when a company with a negative reputation
-becomes involved in causes closely related to its business Different
+becomes involved in causes closely related to its business. Different
 personality traits result in different responses to corporate
 philanthropy efforts what works for one consumer segment may not work
-for another Individuals who personally support the issue central to
-the company s initiatives are more likely to be persuaded to purchase
-its products Companies perceived to have distinguished themselves on a
+for another. Individuals who personally support the issue central to
+the company's initiatives are more likely to be persuaded to purchase
+its products. Companies perceived to have distinguished themselves on a
 corporate responsibility platform generally enjoy a loyal following
-among a certain segment of customers Consumers generally do not like
+among a certain segment of customers. Consumers generally do not like
 to be asked to pay a premium for philanthropy nor do they want to
-sacrifice product quality Perception of a company s capabilities in
-other areas also modifies how consumers respond to philanthropy
+sacrifice product quality. Perception of a company s capabilities in
+other areas also modifies how consumers respond to philanthropy.
 Researchers have identified a strong statistical relationship between
 consumer satisfaction and companies philanthropic record only when
 companies are perceived to have strong product quality and innovation
-capabilities and or operate in consumer oriented industries 22
+capabilities and or operate in consumer oriented industries.
 Designing a measurement framework for loyalty should begin with an
 assessment of the perceptions customers have already developed as a
-result of a company s corporate philanthropic initiatives and whether
+result of a company's corporate philanthropic initiatives and whether
 these perceptions are
-contributing to higher loyalty scores Figure 9 suggests such a
-framework based on the literature reviewed Figure 9 A Framework for
+contributing to higher loyalty scores. Figure 9 suggests such a
+framework based on the literature reviewed. Figure 9 A Framework for
 Measuring Customer Loyalty and Corporate Philanthropy Source Adapted
-from Bhatt acharya C B Sen S 2004 and Smith V Langford P 2009 A
-company s marketing department is likely already to have implemented
+from Bhattacharya C B Sen S 2004 and Smith V Langford P 2009. A
+company's marketing department is likely already to have implemented
 its own customer loyalty metrics in which case it is sensible to
-leverage these along with customized deliberate customer research It
-is imperative that the additional factors affecting loyalty scores e g
-customer perceptions of product quality and value also betaken into
-account Figure 10 proposes representative survey instruments that
+leverage these along with customized deliberate customer research. It
+is imperative that the additional factors affecting loyalty scores, e.g.
+customer perceptions of product quality and value, also be taken into
+account. Figure 10 proposes representative survey instruments that
 companies may adapt.
 
 Figure 10 Representative
@@ -1467,17 +1473,17 @@ philanthropic initiative initiatives 2 There is dissimilarity
 similarity between company and philanthropic initiative 3 There is
 inconsistency consistency between company and philanthropic initiative
 4 The company and philanthropic initiative are complementary not
-complementary Company s Du Bhatt acharya The company supports this
+complementary Companys Du Bhattacharya The company supports this
 philanthropic initiative motivation is Sen 2007 because it is
 genuinely concerned about being intrinsic socially socially
-responsible motivated Company s Du Bhatt acharya The company supports
+responsible motivated Companys Du Bhattacharya The company supports
 this philanthropic initiative motivation is Sen 2007 because it feels
 competitive pressures to engage in extrinsic profit such activities
-motivated Beliefs about Du Bhatt acharya 1 This company brandis a
+motivated Beliefs about Du Bhattacharya 1 This company brandis a
 socially responsible company s social Sen 2007 company brand
 responsibility 2 This company brand has made a real difference through
 its socially responsible actions Customer Becker Olsen My sense of who
-Iam i e my personal identity identification with Hill 2005 overlaps
+I am i.e. my personal identity identification with Hill 2005 overlaps
 with my sense of what this company company represents Customer loyalty
 Bone Ellen Survey with three item scale assessing customers intention
 to 1992 intention to purchase re purchase 1 What is the probability
@@ -1485,17 +1491,19 @@ that you will use X s services 2 What is the likelihood of you
 choosing X the next time you contract a service 3 The next time I
 purchase a service will be with X Customer loyalty Reich held 2003 How
 likely is it that you would recommend X to a intention to friend or
-colleague recommend CEOs have a keen interest in quantifying the
-financial value of loyal customers A statistical model of the expected
+colleague recommend.
+
+CEOs have a keen interest in quantifying the
+financial value of loyal customers. A statistical model of the expected
 lifetime value of customer loyalty reflecting the profits likely to
-arise from re purchases and word of mouth recommendations is a helpful
-indicator as to the returns from loyalty enhancement Attributions of
+arise from repurchases and word of mouth recommendations is a helpful
+indicator as to the returns from loyalty enhancement. Attributions of
 customer loyalty can be further broken down statistical techniques
-such as conjoint analysis 23 can be applied to customer surveys to
-assess how much a customer s perception of corporate philanthropy
-contributed to his or her loyalty score Figure 11 outline show
+such as conjoint analysis can be applied to customer surveys to
+assess how much a customer's perception of corporate philanthropy
+contributed to his or her loyalty score. Figure 11 outline show
 companies can then estimate financial returns from corporate
-philanthropy s influence on customer loyalty .
+philanthropy's influence on customer loyalty.
 
 Figure 11 Model to Estimate the Influential Value of
 Corporate Philanthropic Initiatives on Customer Loyalty Estimate
@@ -1506,128 +1514,140 @@ perceptions of scores in surveys e g follow up corporate with
 customers to philanthropy validate their actual purchase behavior e g
 statistical and assign dollar analysis such as value to expected
 conjoint analysis of profitability from customer surveys re purchases
-and recommendations Managing reputation al risk A strong and positive
-reputation is invaluable to a company How external stakeholders see a
+and recommendations 
+
+Managing reputational risk.
+
+A strong and positive
+reputation is invaluable to a company. How external stakeholders see a
 company as good rather than bad reinforces the company with better
 human capital goodwill legitimacy and a license to operate in the
-communities it serves and seeks to enter However as Benjamin Franklin
+communities it serves and seeks to enter. However as Benjamin Franklin
 once said it takes many good deeds to build a good reputation and only
-one bad one to lose it Managing downside reputation al risk before a
+one bad one to lose it. Managing downside reputation al risk before a
 crisis strikes is critical much less can be done after the crisis has
-occurred Researchers have documented how a record of community based
+occurred. Researchers have documented how a record of community based
 initiatives creates goodwill that can mitigate stake holder sanctions
-ranging from mild e g casual bad mouthing to severe having one s right
-to do business revoked when negative events arise Paul Godfrey Craig
+ranging from mild e.g. casual bad mouthing to severe having one's right
+to do business revoked when negative events arise. Paul Godfrey Craig
 Merrill and Jared Hansen 2009 of Brigham Young University point out
 that the severity of such sanctions may depend on both the negative
 effects of the action and the perceived intentions of the offending
-company In other words punishments are more severe when bad acts are
-committed by bad actors Moreover long accumulated goodwill trust and
-familiarity can moderate the negative reputation al effect of a
+company. In other words punishments are more severe when bad acts are
+committed by bad actors. Moreover long accumulated goodwill trust and
+familiarity can moderate the negative reputational effect of a
 company blunder as these traits often encourage stakeholders to
 attribute the negative event to a singular managerial mistake rather
-than an intentional course To test this idea Godfrey Merrill and
+than an intentional course. To test this idea Godfrey Merrill and
 Hansen collected and examined stock price reactions for a large sample
-of companies that experienced negative legal or regulatory actions
+of companies that experienced negative legal or regulatory actions.
 Such negative events to the extent that they are unanticipated or
 partially anticipated should generate negative stock price reactions 
 as investors expect negative long accumulated
-stake holder reactions However goodwill trust and commitment to
+stake holder reactions. However goodwill trust and commitment to
 community initiatives could familiarity can moderate serve as a signal
-to investors of the goodwill the negative reputation al and positive
+to investors of the goodwill the negative reputational and positive
 perception of management effect of a company character enjoyed by the
-company and blunder which may temper possible sanctions The
+company and blunder which may temper possible sanctions. The
 researchers examined 160 companies that appeared from 1991 to 2002 in
-a data set maintained by the research firm KL D Analytics The data set
+a data set maintained by the research firm KLD Analytics. The data set
 contains analysts assessments of the companies social participation in
-community and diversity initiatives The researchers also reviewed Wall
+community and diversity initiatives. The researchers also reviewed Wall
 Street Journal articles published between 1992 and 2003 looking for
 negative events such as the initiation of a lawsuit against any of the
 companies by a customer third party or competitor or the announcement
-of regulatory action e g investigation fines penalties etc by a
-government entity The announcement events were grouped into either
+of regulatory action eg investigation fines penalties etc by a
+government entity. The announcement events were grouped into either
 integrity based actions such as discrimination claims fraud
 accusations false claims dishonesty pension or investor obligation
 claims or bribery allegation and competitive or health safety actions
-including competition conspiracy anti trust claims patent
+including competition conspiracy anti-trust claims patent
 infringements price fixing accusations consumer medical injury issues
 product safety problems quality control issues and environmental
-pollution indiscretions The researchers reported that companies
+pollution indiscretions. The researchers reported that companies
 participating in social initiatives preserved greater share value
 adjusted for market wide price movement around these negative
-announcements than those who did not participate in social initiatives
+announcements than those who did not participate in social initiatives.
 However the data does not reveal the relative severity of the negative
 events hence the study was unable to control for the possibility that
 the missteps done by good companies simply were not as bad as those
-done by the companies less socially engaged The value effects were
+done by the companies less socially engaged. The value effects were
 strongest surrounding those events categorized as integrity related In
 a back of the envelope calculation the researchers estimated that
-companies not engaging in social initiatives lost on average 72 4
+companies not engaging in social initiatives lost on average 72.4
 million per negative event while socially engaged companies lost only
-22 8 million relative to the average market capitalization of 32 6
+22.8 million relative to the average market capitalization of 32.6
 billion for all companies on the days preceding the events.
 
 A model for measuring the value of
-corporate philanthropy in terms of managing reputation al risk Many
-companies already have in place a strategy for managing reputation al
-risk This strategy typically includes identifying events that may lead
-to reputation al damage assessing the likelihood and severity of
-damage and preparing plans to manage these risks 24 The first step in
+corporate philanthropy in terms of managing reputational risk. Many
+companies already have in place a strategy for managing reputational
+risk. This strategy typically includes identifying events that may lead
+to reputational damage, assessing the likelihood and severity of
+damage and preparing plans to manage these risks. The first step in
 assessing these risks is to identify key stakeholders internal and
 external such as customers suppliers and regulators understand their
-expectations vis vis the company s current reputation and develop a
-master list of risk events A starting point for identifying reputation
-al threats is a list of stake holder groups and their corresponding
-threats as analyzed by Charles Fo mb run Naomi Gard berg and Michael
-Barnett 2000 of New York University and summarized in Figure 12 To
-quantify stake holder expectations and reputation al risks a company s
+expectations vis vis the company's current reputation and develop a
+master list of risk events. A starting point for identifying reputation
+al threats is a list of stakeholder groups and their corresponding
+threats as analyzed by Charles Fombrun Naomi Gardberg and Michael
+Barnett 2000 of New York University and summarized in Figure 12. To
+quantify stake holder expectations and reputation al risks a company's
 Enterprise Risk Management or Public Relations department may conduct
 a reputation assessment often applying one or more of the following
-techniques 1 analysis of media hits and stories 2 interviews with
-front line employees 3 consultations with stakeholders and industry
-executives 4 focus groups and 5 public opinion polls 25 Precise
-valuation of reputation al insurance against these threats is
-difficult When litigation community protests and other crises are
+techniques: 1. analysis of media hits and stories 2. interviews with
+front line employees 3. consultations with stakeholders and industry
+executives 4. focus groups and 5. public opinion polls. Precise
+valuation of reputational insurance against these threats is
+difficult. When litigation community protests and other crises are
 successfully avoided costs will never be recorded and the resulting
-impact on profits or share prices goes unobserved However these costs
-can be real and significant Scenario analysis is a tool commonly used
+impact on profits or share prices goes unobserved. However these costs
+can be real and significant. Scenario analysis is a tool commonly used
 in addressing such problems and estimating the potential cost of these
-risks Each potential event needs to be assessed in terms of the
+risks. Each potential event needs to be assessed in terms of the
 likelihood that it will occur and the severity of the potential
-reputation al damage as suggested in Figure 13 Companies can perform a
+reputational damage as suggested in Figure 13. Companies can perform a
 quantitative assessment of the impact of reputation al damage in terms
 of reduced operating revenue or increased compliance operating or
-capital costs This may involve simulation techniques to map out
-numerous scenarios and estimate average frequency and loss severity
+capital costs. This may involve simulation techniques to map out
+numerous scenarios and estimate average frequency and loss severity.
 The company can then prioritize these risks and decide whether and how
 they can be eliminated reduced or accepted.
 
-Figure
-12 Identifying Stake holder Groups and Reputation al Threats Stake
-holder Threats Examples Community Withdraw license Companies seek to
+Figure 12 Identifying Stakeholder Groups and Reputational Threats.
+Stakeholder Threats Examples.
+Community Withdraw license. Companies seek to
 dampen community protests to operate and threats to the legitimacy of
-their operations Regulators Regulatory action Companies seek to create
+their operations.
+Regulators. Regulatory action. Companies seek to create
 greater trust and familiarity between themselves and the local
 community and regulators reducing the likelihood and costs of
-regulatory actions Customers Misunderstanding Companies want to convey
+regulatory actions.
+Customers Misunderstanding. Companies want to convey
 favorable images of themselves and reduce the chance that customers
-misunderstand their business behavior and ethics Partners Defection
+misunderstand their business behavior and ethics.
+Partners Defection.
 Companies want to reduce the risks of disruption to crucial flows of
-manufacturing inputs products services and resources Employees Rogue
-behavior Companies want to strengthen the bond between employees and
+manufacturing inputs products services and resources 
+Employees Rogue behavior. Companies want to strengthen the bond between employees and
 the corporate culture and avoid actions taken by employees in their
 self interest that can create negative publicity for a company or even
-bring it down Investors Share value Companies want to assure investors
+bring it down.
+Investors Sharevalue. Companies want to assure investors
 of their future prospects for growth stability of profitability and
-quality of management Activists Boycotts Companies are more vulnerable
+quality of management.
+Activists Boycotts. Companies are more vulnerable
 to activists if their actions or in actions can be perceived as
-damaging to social values or communities Media Negative exposure When
+damaging to social values or communities.
+Media Negative exposure. When
 a crisis arises a company can be vulnerable to negative media exposure
 both if the company is too quiet or too vocal visible The company can
 reduce this vulnerability by nurturing a positive corporate image and
 appropriately familiarizing the public with its business employees and
-activities Source Adapted from Fo mb run C J Gard berg N A Barnett M L
-2000 Figure 13 Quantitative Assessment of Reputation al Risk Events
+activities. Source: Adapted from Fombrun C J Gardberg N A Barnett M L
+2000 
+
+Figure 13 Quantitative Assessment of Reputation al Risk Events
 Regulatory Action Example x Risk Cost Types Costs Likelihood Expected
 Loss Legislative adjustments Lost revenues that change the rules
 Increased taxes and of the game tariffs Source Adapted from Epstein M
@@ -1635,226 +1655,242 @@ J 2008 Figure 7 3.
 
 Positioning
 corporate philanthropy either internally or externally is not
-straightforward Companies need to be wary that stakeholders might
+straightforward. Companies need to be wary that stakeholders might
 cynically perceive these initiatives as just empty claims or public
-relation devices Corporate philanthropy needs to represent and be
-embedded in a natural extension of the company s values and operations
+relation devices. Corporate philanthropy needs to represent and be
+embedded in a natural extension of the company's values and operations.
 NGOs and nonprofit partners who speak on companies behalf bring more
-credibility At the sametime the bigger a company s reputation and the
+credibility. At the same time the bigger a company's reputation and the
 larger the gap between perception and reality the more vulnerable the
-company is to reputation al attacks Innovation and growth
-opportunities Innovation which is key to sustaining a competitive
-business advantage often emerges from creative problem solving Rosa
-beth Moss Kant er 1999 of Harvard Business School has suggested that
+company is to reputational attacks. 
+
+Innovation and growth
+opportunities. Innovation which is key to sustaining a competitive
+business advantage often emerges from creative problem solving Rosabeth 
+Moss Kanter 1999 of Harvard Business School has suggested that
 companies can view community need as a business opportunity to develop
-ideas demonstrate technologies find and serve new markets and solve
-longstanding social problems Companies can further their capabilities
+ideas, demonstrate technologies, find and serve new markets and solve
+longstanding social problems. Companies can further their capabilities
 by applying their best people and core skills to advancement that
-benefits both business and community Kant er even goes s of aras to
+benefits both business and community. Kanter even goes so far as to
 suggest thinking about these efforts not simply as charity but as a
-strategic business investment Jane Nelson and Beth Jenkins 2006 of
+strategic business investment. Jane Nelson and Beth Jenkins 2006 of
 Harvard University reviewed several examples of companies looking to
 their philanthropic community investment and employee volunteering
-programs as sources of innovation for the company its partners and the
-communities and countries in which it operates Sarah Holmes and Lance
-Noir 2007 access to a diverse from Cranfield University in the U K
-range of external partners studied innovation s role in companies
+programs as sources of innovation for the company. its partners and the
+communities and countries in which it operates. Sarah Holmes and Lance
+Noir 2007 access to a diverse from Cranfield University in the UK
+range of external partners studied innovation's role in companies
 becomes increasingly collaborative relationships with nonprofit
-valuable to companies organizations As drivers of innovation wishing
+valuable to companies organizations. As drivers of innovation wishing
 to generate disperse beyond traditional company and be associated with
-boundaries access to a diverse range of new ideas external partners
+boundaries access to a diverse range of new ideas, external partners
 becomes increasingly valuable to companies wishing to generate and be
-associated with new ideas Nonprofits offer companies access to a dense
+associated with new ideas. Nonprofits offer companies access to a dense
 network distinct from the companies own corporate sphere as well as
-afresh view of the modern marketplace NGOs for example lead social
+a fresh view of the modern marketplace. NGOs for example lead social
 movements and can give early warning about shifts
 in public tastes and values. They may also possess unique technical
 expertise and influence on public legislation resources that corporate
-partners are likely to find advantageous when exploring new markets As
+partners are likely to find advantageous when exploring new markets. As
 suggested by a Boston College Center for Corporate Citizenship and
 McKinsey Company 2009 review of practices among twenty companies
 philanthropic activities could have a demonstrable impact on corporate
-growth through several pathways New markets Philanthropic activities
+growth through several pathways. 
+
+New markets: Philanthropic activities
 expose companies to new markets and increase market share through
-exposure New products Philanthropic activities can involve the
+exposure. 
+
+New products: Philanthropic activities can involve the
 creation of products that meet social needs and increase
-differentiation New customers Philanthropic activities engage new and
+differentiation. 
+
+New customers: Philanthropic activities engage new and
 existing consumers and contribute to a greater understanding of
-consumer expectations and behavior New technologies Philanthropic
+consumer expectations and behavior.
+
+New technologies: Philanthropic
 activities can lead to the development of cutting edge technologies
 and innovative products also applicable to business use patenting and
-proprietary knowledge The financial impact arising from these
+proprietary knowledge.
+
+The financial impact arising from these
 philanthropic activities ranges from profits increased directly
 through sales or indirectly through goodwill or savings related to
-risk avoidance or operating efficiency gains Models for measuring the
+risk avoidance or operating efficiency gains. Models for measuring the
 value of corporate philanthropy in terms of innovation and growth
-opportunities There are three standard financial valuation methods
+opportunities. There are three standard financial valuation methods
 that can be applied to measure the value of corporate philanthropy as
-an opportunity for business innovation and growth I Market based model
-The market based approach is the most straightforward It relies
+an opportunity for business innovation and growth. 
+
+I. Market based model.
+The market based approach is the most straightforward. It relies
 however on being able either to observe a market price for the project
 in question or comparisons to the market values of other similar
-projects or assets For example innovation may result in a new patent
+projects or assets. For example innovation may result in a new patent
 which has a market price when put up for sale to other companies
 
 Another example if other similar businesses already
 have a market price then the project can be
-valued by applying the same financial multiples e g price to book
-value or price to earnings ratios of those comparable s II Cash flow
-model The income or cash flow based approach is often used instead of
-the market based model because market prices are not readily available
+valued by applying the same financial multiples, e .g. price to book
+value or price to earnings ratios of those comparables.
+
+II. Cash flow model. The income or cash flow based approach is often used instead of
+the market based model because market prices are not readily available,
 particularly for unique projects or projects that cannot easily be
-isolated and assessed as stand alone entities All future cash flows
-are estimated and then discounted to arrive at their net present value
-The three steps comprising the cash flow based approach are 1 Estimate
-future cash flows including revenues and expenses This captures the
-enhanced revenues or savings the innovation has effected 2 Determine
-the time period over which these cash flows are earned 3 Apply an
+isolated and assessed as stand alone entities. All future cash flows
+are estimated and then discounted to arrive at their net present value.
+The three steps comprising the cash flow based approach are: 1. Estimate
+future cash flows including revenues and expenses. This captures the
+enhanced revenues or savings the innovation has effected. 2. Determine
+the time period over which these cash flows are earned. 3. Apply an
 appropriate discount rate which reflects the time value of money and
-the relative risk or uncertainty of cash flows III Real options
-analysis model Innovations can also provide companies with the
+the relative risk or uncertainty of cash flows 
+
+III Real options analysis model. Innovations can also provide companies with the
 potential to create cash flows that will exist in the future but do
-not exist now For example a company may develop a new commercial
+not exist now. For example a company may develop a new commercial
 technology as a residual benefit from sustained efforts tackling a
-social sector objective This technology may not be financially viable
+social sector objective. This technology may not be financially viable
 today which is why the company does not commercialize it and does not
-enjoy any current cash flow owing to its existence Nevertheless the
+enjoy any current cash flow owing to its existence. Nevertheless the
 technology may have considerable value to the company because it can
-be developed in the future Financial scholars including A swath
-Damodar an 2006 have noted that such examples of intangible assets
-maybe undervalued on a traditional cash flow basis and are best valued
-using the real options approach Charles Fo mb run and his co
-researchers 2000 have also suggested that were firms to view
+be developed in the future. Financial scholars including Aswath
+Damodaran 2006 have noted that such examples of intangible assets
+may be undervalued on a traditional cash flow basis and are best valued
+using the real options approach. Charles Fombrun and his coresearchers 
+2000 have also suggested that were firms to view
 citizenship through the real options lens they might overcome these
-myopic tendencies to under invest in it To illustrate the valuation
+myopic tendencies to under invest in it. To illustrate the valuation
 concepts underlying the real options approach consider a hypothetical
-example of a company gaining access to a newmarket 26 through exposure
-from its philanthropic programs. Small medium sized enterprises S MEs
+example of a company gaining access to a new market through exposure
+from its philanthropic programs. Small medium sized enterprises SMEs
 in an emerging market country can form a sizable customer base for their 
 products. However start up costs for a
 business venture are substantial and business revenues though
-potentially large are still highly uncertain So an established company
+potentially large are still highly uncertain. So an established company
 funds a philanthropic initiative that helps SME owners to develop
-their business knowledge and capabilities This initiative not only
-improves the company s access to potential customers but overtime also
+their business knowledge and capabilities. This initiative not only
+improves the company's access to potential customers but over time also
 allows it to develop and gauge market opportunities for its commercial
-products The company can choose to enter the market itself if and when
-it is determined financially viable or it may choose not to in which
+products. The company can choose to enter the market itself if and when
+it is determined financially viable or it may choose not to, in which
 case it has protected its downside financial risk all the while
-contributing to improving socio economic conditions In practice
+contributing to improving socio-economic conditions. In practice
 calculating real options values requires sophisticated numerical
 techniques and should be undertaken with business units in the firm to
-ensure consistent assumptions are used Nevertheless its intuition can
-be illustrated by adding some numbers to this stylized example Assume
-a company s cost of capital is 10 Start up costs in a newmarket are 60
+ensure consistent assumptions are used. Nevertheless its intuition can
+be illustrated by adding some numbers to this stylized example. Assume
+a company's cost of capital is 10%. Start up costs in a new market are 60
 million while market size maybe drawn from three equally likely
-scenarios annual revenue streams of 3 million 6 million or 12 million
-Using the cash flow based approach the expected i e probability
+scenarios annual revenue streams of 3 million 6 million or 12 million.
+Using the cash flow based approach the expected i.e. probability
 weighted average discounted value of these perpetual revenue streams
-is 70 million Therefore the net present value subtracting start up
-costs is 10 million However suppose the company is able to narrow this
-uncertainty after engaging in those philanthropic initiatives The
-company would decide togo ahead only if it knew that the market
+is 70 million. Therefore the net present value subtracting start up
+costs is 10 million. However suppose the company is able to narrow this
+uncertainty after engaging in those philanthropic initiatives. The
+company would decide to go ahead only if it knew that the market
 presented the highest revenue scenario where the company would likely
-earn 120 million 60 million 60 million The discounted probability
-weighted average profits would be 1 10 x 1 3 x 60 million 18 million
-since one would not proceed in the other two cases Only the real
+earn 120 million 60 million 60 million. The discounted probability
+weighted average profits would be 1 10 x 1 3 x 60 million = 18 million
+since one would not proceed in the other two cases. Only the real
 options approach allows a company the flexibility to wait and see if
-commercialization is viable This flexibility can protect downside risk
-and is financially most valuable to the company when 1 There is
-greater uncertainty about the size of the market 2 There is
-substantial investment needed for infrastructure 3 There are
-significant barriers to entry for competitors Even when a leading
+commercialization is viable. This flexibility can protect downside risk
+and is financially most valuable to the company when: 1. There is
+greater uncertainty about the size of the market, 2. There is
+substantial investment needed for infrastructure, 3. There are
+significant barriers to entry for competitors. Even when a leading
 company cannot keep competitors completely at bay unlike with a patent
 protected by law it can still reap a disproportionate share of
 benefits by being the first to build a superior reputation and
-relationships in the newmarket 
+relationships in the new market.
 
 ### Summary 
 
 CGOs can make a more persuasive business case by articulating
 clearly the strategies by which they expect philanthropic initiatives
 to contribute towards strategic business needs such as improved
-employee engagement customer loyalty reputation al risk and growth
-opportunities These pathways are often not straightforward To realize
-meaningful benefits philanthropic involvement cannot be treated as
-just another check in the box Companies must understand the mechanisms
-by which they expect these business benefits to be achieved Related
+employee engagement, customer loyalty, reputational risk and growth
+opportunities. These pathways are often not straightforward. To realize
+meaningful benefits, philanthropic involvement cannot be treated as
+just another check in the box. Companies must understand the mechanisms
+by which they expect these business benefits to be achieved. Related
 business disciplines have developed a body of evidence and measurement
-approaches that can be applied When benefits to the business are long
-term or intangible modeling approaches for valuing future cash flows
+approaches that can be applied. When benefits to the business are long
+term or intangible, modeling approaches for valuing future cash flows
 analyzing scenarios and calibrating expected monetary profits linked
 to the behaviors of loyal customers and engaged employees can be used
-to estimate financial value as well as to clarify assumptions
+to estimate financial value as well as to clarify assumptions.
 Intermediate metrics can help programs deliver those business benefits
-by enabling managers to make mid course adjustments as necessary
+by enabling managers to make mid course adjustments as necessary.
 Companies who find natural innovative opportunities to commit abroad
 array of company product expertise and capabilities beyond cash grants
 can multiply the business and social returns that their philanthropic
-initiatives achieve These opportunities are more likely to arise when
+initiatives achieve. These opportunities are more likely to arise when
 companies establish meaningful long term relationships with nonprofit
-partners aligned with the company s priority areas When corporate
+partners aligned with the company's priority areas. When corporate
 donations are disbursed without strategy the benefits will be greatly
-limited Heike Bruch and Frank Walter 2005 When corporate from the
+limited. Heike Bruch and Frank Walter 2005 When corporate from the
 University of St Gallen in donations are disbursed Switzerland
 distinguish companies as being without strategy the market or
 competence oriented in their benefits will be greatly philanthropic
-focus Endeavoring to live up limited to stake holder expectations
+focus. Endeavoring to live up limited to stakeholder expectations
 these market oriented companies are likely to care most about
 measuring competitive advantages such as improved marketing
-capabilities and better stake holder relationships By contrast
+capabilities and better stakeholder relationships. By contrast
 competence oriented companies focus on internal skills when deciding
 on the nature of their charitable involvement and for such companies
 measuring value from employee engagement and business innovation is
 more important than for market oriented companies.
 The best approach would seem to be a balanced combination of an
 external market and internal competence orientation which would be
-more likely to maximize business and social benefits concurrently 13
+more likely to maximize business and social benefits concurrently.
 This review focused on studies that concentrated on companies social
 and community behavior which for many companies begins with corporate
 philanthropy the charitable donation of dollars products services and
-employee volunteer time Some of these studies also considered a
+employee volunteer time. Some of these studies also considered a
 company s broader corporate citizenship performance beyond social and
 community engagement and included other aspects of corporate social
 responsibility CSR such as governance structure and environmental
-impact 14 Known in the psychology literature as the motivation
-crowding theory See FreyJegen (2001) and Weibel, Rost, Osterloh (2007).
+impact. Known in the psychology literature as the motivation
+crowding theory, See FreyJegen (2001) and Weibel, Rost, Osterloh (2007).
 A recurring statistical criticism of such empirical studies is How
 can one disentangle the possibility that companies for whom employees
-enjoy working might simply be financially valuable in the first place
+enjoy working might simply be financially valuable in the first place.
 Researchers attempt to mitigate this problem by including in their
 regression models a slew of control variables such as measures of past
-financial performance More rigorous statistical tests require
+financial performance. More rigorous statistical tests require
 controlled experiments and field studies that are more complex to
-undertake 16 Hills Mahmud 2007 17 See http www pfizer com
-responsibility global health global health fellows jsp 18 One can turn
+undertake, Hills Mahmud 2007, See http://www.pfizer.com
+responsibility global health global health fellows jsp. One can turn
 to the HR measurement field for calculation and estimation approaches
-to convert outcomes from an HR program to monetary values although no
-standard approach exists For example Phillips 2005 provides a review
+to convert outcomes from an HR program to monetary values. although no
+standard approach exists. For example Phillips 2005 provides a review
 of HR measurement strategies and describes pp 182 183 how a large
-financial institution RB S developed and used an employee engagement
+financial institution RBS developed and used an employee engagement
 model to link HR information to key business indicators enabling the
-business to measure the impact of HR initiatives on business profits
-19 In a survey of HR managers and corporate executives who sponsor
-executive education programs Charlton Osterweil 2005 found that
+business to measure the impact of HR initiatives on business profits.
+In a survey of HR managers and corporate executives who sponsor
+executive education programs, Charlton Osterweil 2005 found that
 while respondents agreed that measuring ROI was important people may
-mean different things when they talk about ROI The researchers
+mean different things when they talk about ROI. The researchers
 conclude that sponsors may not be as wedded to proof of financial ROI
-as many HR professionals assume 20 Reichheld Sasser 1990 21 Reich
-held 2003 22 Luo Bhatt acharya 2006 and Lev Petrov its Radhakrishnan
-2009 23 Conjoint analysis is a statistical technique that originated
+as many HR professionals assume, Reichheld Sasser 1990, Reich
+held 2003, Luo Bhattacharya 2006 and Lev Petrovits Radhakrishnan
+2009. Conjoint analysis is a statistical technique that originated
 in mathematical psychology and is applied to marketing and survey
-analyses See Green Srinivasa n 1990 The technique uses statistical de
-compositional methods to quantify consumers relative preferences given
+analyses See Green Srinivasan 1990. The technique uses statistical 
+decompositional methods to quantify consumers relative preferences given
 their overall evaluations of a set of alternatives which in turn are
-specified as levels of different attributes 24 Christi a ens 2008 25
-Eccles New qui st Schatz 2007 26 To illustrate the potential role of
+specified as levels of different attributes, Christiaens 2008,
+Eccles Newquist Schatz 2007. To illustrate the potential role of
 philanthropic programs this hypothetical example was adapted from the
-field of international business management For example Li Rug man 2007
+field of international business management. For example Li Rugman 2007
 investigated how to apply real options analysis to foreign direct
-investment decisions made by multinational enterprises The focus of
+investment decisions made by multinational enterprises. The focus of
 their paper was on only traditional market entry modes such as exports
-licensing and wholly owned subsidiaries 
+licensing and wholly owned subsidiaries. 
 
 # CONVERSATION THREE. Between the Chief Executive Officer CEO and
 investor community.
@@ -1862,33 +1898,33 @@ investor community.
 The investor community tends to pose two
 contrasting questions about corporate giving On the one hand
 shareholders want assurance that philanthropy adds to or atleast does
-not detract from shareholder value On the other hand a growing number
+not detract from shareholder value. On the other hand a growing number
 of investors place increasing emphasis on the demonstration of
-corporate responsibility A large body of literature already exists
+corporate responsibility. A large body of literature already exists
 seeking to demonstrate the business value of corporate philanthropy to
-both groups Merely for ease of distinction here we will distinguish
-these two investor groups as traditional and responsible 
+both groups. Merely for ease of distinction here we will distinguish
+these two investor groups as traditional and responsible.
 
 ## Question 4. How to measure the value of corporate philanthropy 
 for traditional investors.
 
 Scholars have long searched for a link between corporate
-philanthropy and premiums in company profits or stock prices They
+philanthropy and premiums in company profits or stock prices. They
 believe that if this link can be proven statistically it could offer
 definitive financial justification for companies to behave as good
-corporate citizens Textbook accounting frameworks reveal that a
-company s share price multiple the premium that a company s share
+corporate citizens. Textbook accounting frameworks reveal that a
+company s share price multiple the premium that a company's share
 price may be worth over its book value of identifiable company assets
-can be driven higher through two financial levers 27 1 a lower cost of
-capital or 2 higher expectations of how much future profitability
-exceeds the company s cost of capital The share price premium that a
+can be driven higher through two financial levers: 1) a lower cost of
+capital or 2) higher expectations of how much future profitability
+exceeds the company's cost of capital. The share price premium that a
 company enjoys over its cost of identifiable financial and physical
 assets is attributed to intangibles which can comprise a significant
-portion of a company s intrinsic value 28 Empirical evidence on share
-price valuations and profitability Baruch Lev and Christine Petrov its
-at New York University and Sure sh Radhakrishnan 2009 at the
+portion of a company's intrinsic value. Empirical evidence on share
+price valuations and profitability. Baruch Lev and Christine Petrovits
+at New York University and Suresh Radhakrishnan 2009 at the
 University of Texas collected a large data set of charitable
-contributions made by public companies from 1989 through 2000 They
+contributions made by public companies from 1989 through 2000. They
 applied a statistical methodology known as Granger causality which
 distinguishes causation from association and found that charitable
 contributions increased the subsequent revenue growth of their donors
@@ -1897,438 +1933,413 @@ to consumer perception and for these consumer oriented companies
 within their sample period a basic calculation suggests that giving
 500 000 caused net profits to rise by almost 800 000 The researchers
 could not detect a relationship between charitable giving and profits
-nor sales growth in non consumer industries such as industrial
-companies A study by Ray F is man and Geoffrey Heal of Columbia
-Business School and V in ayN air 2007 of the Wharton School used a
-different data set to explore similar hypotheses They collected
+nor sales growth in non-consumer industries such as industrial
+companies. A study by Ray Fisman and Geoffrey Heal of Columbia
+Business School and Vinay Nair 2007 of the Wharton School used a
+different data set to explore similar hypotheses. They collected
 financial data from 1991 to 2003 to calculate profitability and price
 to book ratios for individual companies and also collected information
-about average advertising intensity for different industries
-Philanthropy ratings came from the SOCRATES database maintained by KL
-D Research and Analytics Similarly to Le ve tal these researchers
+about average advertising intensity for different industries.
+Philanthropy ratings came from the SOCRATES database maintained by KLD 
+Research and Analytics. Similarly to Lev et al, these researchers
 found a positive statistical relationship between philanthropy and
 company financial performance as measured by profitability and price
 to book ratios only in advertising intensive industries such as
-consumer oriented companies However the economic magnitude detected
-was not large Joshua M argolis Hillary Elf en be in and James Walsh
-2007 from Harvard Business School University of California and
-University of Michigan respectively conducted a review of 167 similar
-scholarly studies They concluded that after thirty five years of
+consumer oriented companies. However the economic magnitude detected
+was not large. Joshua Margolis, Hillary Elfenbein and James Walsh
+2007 from Harvard Business School, University of California and
+University of Michigan, respectively, conducted a review of 167 similar
+scholarly studies. They concluded that after thirty five years of
 research the preponderance of scholarly evidence suggests a mildly
 positive relationship between corporate social performance and
 corporate financial performance and finds no indication that corporate
-social investments systematically decrease shareholder value 29 More
+social investments systematically decrease shareholder value. More
 critically they and other
-researchers have acknowledged a the preponderance of number of
-weaknesses in the methodologies scholarly evidence and data comprising
-these studies Even suggests a mildly positive when such economic links
-exist flaws such relationship between as these would reduce the power
-of corporate social statistical tests to prove them performance and 1
-There is wide variation in how corporate financial companies are
-assessed on their performance and finds no corporate social
-performance Many indication that corporate studies use observer
+researchers have acknowledged a number of
+weaknesses in the methodologies and data comprising
+these studies. Even when such economic links
+exist flaws such as these would reduce the power
+of corporate social statistical tests to prove them:
+
+1. There is wide variation in how companies are assessed on their 
+performance. Many indication that corporate studies use observer
 perceptions or social investments insiders self reported impressions
-that systematically decrease may suffer from biases e g the halo
-shareholder value effect Others use third party audits that are often
+that may suffer from biases (e.g. the "halo"
+effect). Others use third party audits that are often
 not transparent or open to validation Simple metrics like contribution
 amounts do not reflect how effectively donation dollars are actually
-spent 2 Much of the business value of corporate philanthropy can be
+spent. 
+2. Much of the business value of corporate philanthropy can be
 classified as contributing to the intangibles of a company which may
 only show up in profits several years later and many studies do not
-examine the impact on profits over a sufficiently long timeframe There
+examine the impact on profits over a sufficiently long timeframe. There
 is also mixed evidence on how efficiently stock markets price
-companies whose intangibles makeup a large proportion of their value 3
-Some studies measure financial performance as positive market adjusted
-stock price returns These results can be sensitive to the sample
-period chosen Ideally a study would observe along period that
+companies whose intangibles makeup a large proportion of their value.
+3. Some studies measure financial performance as positive market adjusted
+stock price returns. These results can be sensitive to the sample
+period chosen. Ideally a study would observe along period that
 effectively smoothes out the high variability in stock price movement
-and spans full economic cycles Even more critically care must betaken
-when interpreting the hypotheses supported by such tests If
+and spans full economic cycles. Even more critically, care must be taken
+when interpreting the hypotheses supported by such tests. If
 philanthropic companies are successful in attracting more investors
-and raising capital at a lower cost one would expect the stock price
+and raising capital at a lower cost, one would expect the stock price
 multiples of these companies to be higher and average stock returns
-lower than for less philanthropic companies When stocks are priced
+lower than for less philanthropic companies. When stocks are priced
 efficiently the lower cost of capital required by investors in
 philanthropic companies should match the lower average returns they
-subsequently earn overtime as a result of holding those stocks
-Research by Harrison Hong and Marcin Kac per c zyk 2007 from Princeton
-University and the University of British Columbia Traditional
-investors respectively illustrates such a relationship with tobacco
-companies To date the tobacco industry represents the most prevalent
-negative screen applied by socially responsible investors Over the
-past three and a half decades tobacco stocks consistent with losing
-access to capital from a class of investors 30 have been priced at
-lower multiples their price to book multiples were 15 lower than non
-tobacco stocks At the sametime consistent with having to deliver a
-higher return on capital average stock returns from these s in stocks
-outperformed other comparable stocks by approximately 2 4 a year 4
-Many studies are in explicit about the direction of causality Can
+subsequently earn overtime as a result of holding those stocks.
+Research by Harrison Hong and Marcin Kacperczyk 2007 from Princeton
+University and the University of British Columbia, respectively,
+illustrates such a relationship with tobacco
+companies. To date the tobacco industry represents the most prevalent
+negative screen applied by socially responsible investors. Over the
+past three and a half decades, tobacco stocks consistent with losing
+access to capital from a class of investors, have been priced at
+lower multiples: their price to book multiples were 15% lower than
+non-tobacco stocks. At the same time, consistent with having to deliver a
+higher return on capital, average stock returns from these sin stocks
+outperformed other comparable stocks by approximately 2-4% a year.
+4. Many studies are inexplicit about the direction of causality. Can
 companies afford to be more philanthropic because they have performed
-better financially rather than the other way around Studies also must
+better financially rather than the other way around. Studies also must
 control for other company characteristics that drive financial
-performance but maybe correlated to philanthropic spending such as
-industry risk size research and development and advertising
-expenditures 5 Across companies the relationship between corporate
-philanthropy and financial performance is quite complex Researchers 31
+performance but may be correlated to philanthropic spending such as
+industry risk, size, research and development and advertising
+expenditures. 
+5. Across companies the relationship between corporate
+philanthropy and financial performance is quite complex. Researchers
 have found the relationship to be nonlinear and show decreasing
-returns to scale after all corporate philanthropy cannot be expected
-to increase financial performance in perpetuity The relationship has
+returns to scale: after all corporate philanthropy cannot be expected
+to increase financial performance in perpetuity. The relationship has
 also been found to be weaker among companies and industries that are
-less advertising or innovation focused Summary M argolis Elf en be in
+less advertising or innovation focused. 
+Summary. Margolis, Elfenbein
 and Walsh concluded that research must reach beyond simply assessing
 the magnitude of the corporate social and financial performance
-relationship it must now show how corporate social performance comes
-to bear upon corporate financial performance Put another way It is
-time to study mechanisms more systematically Addressing the hypotheses
+relationship; it must now show how corporate social performance comes
+to bear upon corporate financial performance. Put another way: It is
+time to study mechanisms more systematically. Addressing the hypotheses
 posed in both these scholarly studies and by traditional investors
 requires measuring and understanding the operational drivers of
-business value business value derived from increased employee
-engagement customer loyalty reputation al capital and opportunities
-for innovation 
+business value--business value derived from increased employee
+engagement, customer loyalty, reputational capital and opportunities
+for innovation. 
 
 ## Question 5. How to attract responsible investors.
 
 A company's cost of capital is
 the price it pays investors to supply capital for its business
-activities It is the rate of return that investors require for
-investing in a company If a company attracts a larger pool of
+activities. It is the rate of return that investors require for
+investing in a company. If a company attracts a larger pool of
 potential investors it can raise capital at a lower cost than its
 peers earn a wider profit margin and enjoy a higher stock price
-multiple Effect on cost of capital and share prices Socially
-responsible investing SRI the practice of investors who think
-ethically and socially about which stocks to buy sell or avoid
-altogether has along history In its earlier forms SRI was regarded as
-a niche investment style In the first wave of SRI strategies investors
+multiple. Effect on cost of capital and share prices. Socially
+responsible investing (SRI), the practice of investors who think
+ethically and socially about which stocks to buy, sell or avoid
+altogether, has a long history. In its earlier forms, SRI was regarded as
+a niche investment style. In the first wave of SRI strategies, investors
 applied negative screening and excluded entire sectors or groups of
-stocks based on a set of ethical criteria The next wave of strategies
+stocks based on a set of ethical criteria. The next wave of strategies
 using positive screening was introduced by benchmark providers such as
-the Dow Jones Sustainability Index DJS I This selected only the
+the Dow Jones Sustainability Index DJSI. This selected only the
 companies that rated highest on a broader set of environmental social
-and governance ES G responsibility criteria The total amount of money
+and governance ESG responsibility criteria. The total amount of money
 invested in traditional SRI is still considered to be relatively small
-and volatile In the 2008 Report on Socially Responsible Investing
-Trends in the United States The Social Investment Forum estimated that
+and volatile. In the 2008 Report on Socially Responsible Investing
+Trends in the United States, The Social Investment Forum estimated that
 approximately one in every ten dollars of assets under institutional
-management in the U S an estimated 2 3 trillion out of 24 trillion was
+management in the US, an estimated 2-3 trillion out of 24 trillion was
 invested in companies that rate high on some measure of social
-responsibility Analysts generally estimate that SRI presently makes up
-no more than 5 10 of all stock market investments A far more important
+responsibility. Analysts generally estimate that SRI presently makes up
+no more than 5-10% of all stock market investments. A far more important
 factor will depend on how much mainstream investors start to recognize
-and reward performance incorporate social responsibility CSR
+and reward performance in corporate social responsibility (CSR).
 Increasingly investors are recognizing that responsible corporate
-performance when combined with traditional financial analysis in forms
+performance when combined with traditional financial analysis informs
 their assessments about whether companies are good financial
-investments This also removes the issue of personal values based
-preferences which can be a slippery slope to navigate particularly for
-professional money managers European institutional investors appear to
-be leading and adopting this movement more widely For example Swedish
+investments. This also removes the issue of personal values based
+preferences which can be a slippery slope to navigate, particularly for
+professional money managers. European institutional investors appear to
+be leading and adopting this movement more widely. For example Swedish
 and Norwegian pension funds representing close to 1 trillion of
 combined assets recently signed on to the
-Sustainable Value Increasingly investors are Creation Initiative S VC
-to influence recognizing that companies to improve the social and
-responsible corporate environmental aspects of their operations
-performance when which they believe reduce risks and costs combined
-with traditional while harnessing and developing business financial
-analysis in forms opportunities 32 their assessments Researchers from
-the University of about whether companies British Columbia and the
-University of are good financial Vienna 33 created a model of stock
-market investments prices to examine how social investors materially
-affect those prices This model determined whether a growing class of
+Sustainable Value Creation Initiative SVC
+to influence companies to improve the social and
+environmental aspects of their operations
+which they believe reduce risks and costs 
+while harnessing and developing business
+opportunities. Researchers from
+the University of British Columbia and the
+University of Vienna created a model of stock
+market prices to examine how social investors materially
+affect those prices. This model determined whether a growing class of
 socially concerned investors would create incentives for companies to
 act in a more socially responsible manner by lowering their cost of
-capital In their book Investing for Change August in Landi er and Vi
-nay Nair have applied this model to estimate a back of the envelope
+capital. In their book Investing for Change, Augustin Landier and Vinay 
+Nair have applied this model to estimate a back of the envelope
 relationship between stock price valuation and the proportion of
-socially responsible investors in the market For example if the amount
-of SRI capital switches from 10 of the total available capital to 15
-in three years the cost of capital of responsible companies maybe
-lowered by more than 0 8 Such a drop from say a 10 0 return required
-by investors to 9 2 could increase the valuation of these companies by
-as much as 11 34 Other researchers have approached this question by
+socially responsible investors in the market. For example if the amount
+of SRI capital switches from 10% of the total available capital to 15%
+in three years, the cost of capital of responsible companies may be
+lowered by more than 0.8% Such a drop from say a 10.0% return required
+by investors to 9.2% could increase the valuation of these companies by
+as much as 11%. Other researchers have approached this question by
 examining how substantially stock prices have moved based on SRI
-motivated capital flows SRI funds often track membership in certain
+motivated capital flows. SRI funds often track membership in certain
 specialized benchmarks to identify which companies to invest in These
-benchmarks are maintained by index providers such as Dow Jones or FTSE
-often in collaboration with ES G research firms As companies are
+benchmarks are maintained by index providers such as Dow Jones or FTSE,
+often in collaboration with ESG research firms. As companies are
 included or dropped from such indexes one would expect SRI linked
-capital to flow into or out of those stocks These are potentially
-abrupt events if SRI flows are material enough they could drive stock
-prices of companies entering indexes to rise atleast temporarily and
-those exiting to experience a drop Researchers have collected large
+capital to flow into or out of those stocks. These are potentially
+abrupt events, if SRI flows are material enough they could drive stock
+prices of companies entering indexes to rise at least temporarily and
+those exiting to experience a drop. Researchers have collected large
 datasets of these events and examined the average stock price changes
 accounting for broader market movements and other factors typically
 controlled for in event study methodologies. In recent working papers
 from the Federal Reserve 
-Bank of Atlanta and Bank of Finland 35 researchers looked at the price
+Bank of Atlanta and Bank of Finland, researchers looked at the price
 performance of all stocks between 1990 and 2004 on the announcement
-that they were dropped from the Domini 400 Social Index They found
+that they were dropped from the Domini 400 Social Index. They found
 that the exiting company experienced a significant abnormal stock
-price drop of about 3 Another research team 36 at the University of
+price drop of about 3%. Another research team at the University of
 Calgary studied additions and deletions of North American stocks to
-the Dow Jones Sustainability Index from 2002 to 2007 They found that
+the Dow Jones Sustainability Index from 2002 to 2007. They found that
 inclusion in this index was valuable for a company measuring a boost
-in market value of about 2 compared to stocks that were dropped
-Mainstream responsible investing Contrary to earlier and more
-traditional approaches of SRI which was driven largely by investors
-personal values the case for mainstream institutional investors lies
+in market value of about 2% compared to stocks that were dropped.
+Mainstream responsible investing. Contrary to earlier and more
+traditional approaches of SRI which was driven largely by investors'
+personal values, the case for mainstream institutional investors lies
 in recognizing that responsible corporate behavior is a proxy for the
 quality of company management and the extent to which that management
-is forward looking and adaptable Responsible investing RI is
+is forward looking and adaptable. Responsible investing (RI) is
 characterized by the incorporation of social and environmental factors
 within traditional investment decision making processes based on the
 rationale that such a combined investment framework is more effective
 for assessing the financial value of companies particularly over the
-long term The growth and influence of responsible investing will be
+long term. The growth and influence of responsible investing will be
 determined more by the interest of mainstream investors than by
-traditional SRI funds In April 2006 former UN Secretary General Kofi
+traditional SRI funds. In April 2006 former UN Secretary General Kofi
 Annan launched a global initiative centered on a set of voluntary
-values and guidelines for asset owners and professionals The PRI
-Report on Progress 2008 reported that as of May 2008 approximately 300
+values and guidelines for asset owners and professionals. The PRI
+Report on Progress 2008 reported that as of May 2008, approximately 300
 financial institutions representing a total of 15 trillion in
 professionally managed assets have subscribed to these UN Principles
-for Responsible Investment The six principles listed below are not
+for Responsible Investment. The six principles listed below are not
 prescriptive but they provide a framework according to which investors
-can organize and integrate ES G criteria into mainstream investment
-analysis and ownership practices Although subscription to these
+can organize and integrate ESG criteria into mainstream investment
+analysis and ownership practices. Although subscription to these
 principles does not necessarily mean that all funds already fully
 comply with them funds are nevertheless expected to pursue compliance
 and to report to the UN Secretariat on their progress.
-The Six UN Principles for Responsible Investment are 1 We
-will incorporate ES G issues into investment analysis and decision
-making processes 2 We will be active owners and incorporate ES G
-issues into our ownership policies and practices 3 We will seek
-appropriate disclosure onE SG issues from the entities in which we
-invest 4 We will promote acceptance and implementation of the
-Principles within the investment industry 5 We will work together to
+The Six UN Principles for Responsible Investment are: 1. We
+will incorporate ESG issues into investment analysis and decision
+making processes; 2. We will be active owners and incorporate ESG
+issues into our ownership policies and practices; 3. We will seek
+appropriate disclosure on ESG issues from the entities in which we
+invest; 4. We will promote acceptance and implementation of the
+Principles within the investment industry; 5. We will work together to
 enhance our effectiveness in implementing the Principles 6 We will
 each report on our activities and progress towards implementing the
-Principles The potential impact of responsible investing on how stocks
-are revalued and corporations behave is huge If just a third of
-subscribers implement these principles in their investment process the
+Principles. The potential impact of responsible investing on how stocks
+are revalued and corporations behave is huge. If just a third of
+subscribers implement these principles in their investment process, the
 combined size of investments linked to some corporate responsibility
-criteria would triple However the range of screening criteria and
+criteria would triple. However the range of screening criteria and
 rating assessments is wide in contrast to simple early SRI approaches
-like tobacco industry screens Professional managers and analysts cite
-a general view broadly consistent with recognizing ES G performance as
+like tobacco industry screens. Professional managers and analysts cite
+a general view broadly consistent with recognizing ESG performance as
 a proxy for management quality insofar as it reflects the company s
 ability to respond to long term trends and maintaining a competitive
-advantage 37 Much of their specific analysis ultimately relies on the
+advantage. Much of their specific analysis ultimately relies on the
 subjective judgment of individual analysts and on proprietary
-frameworks rather than standardized metrics A review of the ratings
-processes of major ES G research firms confirms that while their
+frameworks rather than standardized metrics. A review of the ratings
+processes of major ESG research firms confirms that while their
 general principles share much overlap they do apply subjective metrics
-and proprietary rating schemes These ratings generally consider not
+and proprietary rating schemes. These ratings generally consider not
 only the level of philanthropic contributions but also attempt to
 account for other factors such as the innovative quality of giving and
-the measurement processes involved In 1999 Dow Jones Company launched
+the measurement processes involved. In 1999 Dow Jones Company launched
 the first global indexes tracking the stock price performance of
-leading sustainability driven companies worldwide According to the Dow
+leading sustainability driven companies worldwide. According to the Dow
 Jones Sustainable Indexes 2007 Annual Review asset managers in sixteen
 countries collectively managed about 6 billion based on the DJSI. 
 Inclusion within the index is
 based on criteria that are weighted approximately equally for economic
 environmental and social performance though actual weights differ
-among industry groups In order to apply for inclusion in the DJS I
+among industry groups. In order to apply for inclusion in the DJSI,
 companies must complete a questionnaire an extensive survey that
 incorporates both generic as well as industry specific questions This
 information is supplemented by company and third party documents
 personal contact between analysts and company representatives and
-additional information from media and NGOs Companies are ranked within
+additional information from media and NGOs. Companies are ranked within
 their industry groups and selected for the indexes if they are among
 the top 10 of sustainability leaders in the irrespective industry
-sectors Although a significant commitment of costs and efforts maybe
+sectors. Although a significant commitment of costs and efforts maybe
 required for collecting the information and completing the survey
-companies see the DJS I label as an important mechanism for
-establishing a reputation in sustainability The general section of the
+companies see the DJSI label as an important mechanism for
+establishing a reputation in sustainability. The general section of the
 survey questionnaire is comprised of 51 sets of questions covering
-economic environmental and social issues Accounting for 3 5 weight in
+economic environmental and social issues. Accounting for 3.5% weight in
 the company s overall score corporate philanthropy is assessed based
-in part on responses to these questions 38 1 Does the company have a
+in part on responses to these questions: 1. Does the company have a
 system in place to measure the business social and reputation stake
 holder impact of its contributions in order to improve andre align its
-philanthropic social investment strategy 2 What is the estimated
+philanthropic social investment strategy; 2. What is the estimated
 monetary value of its philanthropic contributions voluntary social
-investments in cash employee volunteering and product donations Two
-other prominent social ratings firms are 1 KL D Research Analytics Inc
-KL D has conducted research into the ES G performance of listed
-companies since 1988 Based on KL D s rating indicators the Domini 400
+investments in cash employee volunteering and product donations. Two
+other prominent social ratings firms are: KLD Research Analytics Inc.
+(KLD) has conducted research into the ESG performance of listed
+companies since 1988. Based on KLD's rating indicators, the Domini 400
 Social Index was the first socially responsible stock benchmark in
-America In 2008 FTSE agreed to co brand KL D s suite of ES G
-benchmarks KL D s research database SOCRATES contains ES G reports and
-ratings one very Russell 3000 and S P 500 company and is a widely used
+America. In 2008 FTSE agreed to co-brand KLD's suite of ESG
+benchmarks. KLD's research database SOCRATES contains ESG reports and
+ratings on every Russell 3000 and SP500 company and is a widely used
 measure of corporate social responsibility for industry and academic
-research 2 In no vest Strategic Value Advisors is another global
+research. 2 Innovest Strategic Value Advisors is another global
 provider of extra financial and sustainability based investment
 research institution ally recognized since
-1995 Its Intangible Value Assessment IV A model combines performance
+1995. Its Intangible Value Assessment (IVA) model combines performance
 ratings on 120 sustainability practices categorized into four major
 areas stake holder capital relationship with local community as well
 as partnerships supply chain and human rights human capital employee
 development labor relations and health and safety strategic governance
 overall strategy adaptability product development and safety and
 environment overall environmental impact including strategy governance
-management systems opportunity and risk In 2009 the Risk Metrics Group
+management systems opportunity and risk. In 2009 the RiskMetrics Group,
 a leading provider of financial risk management products and services
-to global institutions announced its intention to acquire In no vest
-and KL D and to integrate their sustainability research capabilities
-into its suite of financial risk management offerings Responding to
-its clients indicated belief 39 that ES G performance is a critical
-benchmark of companies risks and long term value Risk Metrics has
-committed to make ES G analysis an integral part of mainstream
-investment research An important effort to standardize corporate non
+to global institutions, announced its intention to acquire Innovest
+and KLD and to integrate their sustainability research capabilities
+into its suite of financial risk management offerings. Responding to
+its clients indicated belief that ESG performance is a critical
+benchmark of companies risks and long term value. RiskMetrics has
+committed to make ESG analysis an integral part of mainstream
+investment research. An important effort to standardize corporate non
 financial reporting was initiated in 1997 by The Coalition for
-Environmentally Responsible Economies CERES The Tellus Institute and
-The United National Environment Program The Global Reporting
+Environmentally Responsible Economies (CERES), The Tellus Institute and
+The United National Environment Program. The Global Reporting
 Initiative GRI which these entities launched through consultation with
-multiples take holder groups publishes periodically revised reporting
-guidelines However the GRIn either assesses whether company reports
+multiple stakeholder groups publishes periodically revised reporting
+guidelines. However the GRI neither assesses whether company reports
 conform to those guidelines nor verifies their accuracy thus
-potentially reducing the reports value to investors Moreover the
+potentially reducing the reports value to investors. Moreover the
 growing length of reports may complicate financial analysts ability to
-use them effectively 40 The current set of guidelines entitled G 3
+use them effectively. The current set of guidelines entitled G3
 includes performance indicators that fall into one of the following
-categories economic 9 indicators environmental 30 labor practice 14
-human rights 9 society performance 8 and product responsibility
-performance 9 Companies are required to update this data annually 41
-The G 3 indicator for community impact SO 1 obliges companies to
+categories economic (9 indicators), environmental (30), labor practice (14),
+human rights (9), society performance (8), and product responsibility
+performance (9). Companies are required to update this data annually.
+The G3 indicator for community impact, SO1, obliges companies to
 report the nature scope and effectiveness of any programs and
 practices that assess and manage the impact of operations on
-communities including entering operating and exiting In a review of 72
-company reports the GRI found that the majority of G-3 reporters claim
-to be reporting in accordance with the G-3 Guidelines SO-1 indicator
+communities including entering operating and exiting. In a review of 72
+company reports the GRI found that the majority of G3 reporters claim
+to be reporting in accordance with the G3 Guidelines SO1 indicator;
 however in reality only 11 of the G-3 reporters fully report according
 to the SO-1 indicator
-protocol 42 The reports examined were found to focus mostly on
+protocol. The reports examined were found to focus mostly on
 reporting their own performance as opposed to what changes or benefits
 occur as a result of their activities and to emphasize positive
-community impact without mentioning any negative ones Summary A high
-quality measurement process is If the criteria applied by social
-rating firms a critical input for good seem inconsistent and
-subjective this may management and be as much a result of the
-unevenness and demonstrates that a ambiguity of what many companies
-company recognizes how disclose It is also unclear to what extent its
-philanthropic strategies criteria and disclosures are linked to can be
-successful in financial value There is a significant creating long
-term opportunity for companies to lead the business value industry in
+community impact without mentioning any negative ones .
+
+Summary. If the criteria applied by social
+rating firms seem inconsistent and
+subjective this may be as much a result of the
+unevenness and ambiguity of what many companies
+disclose. It is also unclear to what extent
+criteria and disclosures are linked to can be
+successful in financial value. There is a significant
+opportunity for companies to lead the industry in
 developing standards or differentiating themselves to the investor
 community through their disclosures about philanthropic efforts
 Documentation of the measurement process should bean important part of
-establishing quality disclosures and standards A high quality
+establishing quality disclosures and standards. A high quality
 measurement process is a critical input for good management and
-demonstrates that a company recognize show its philanthropic
-strategies can be successful in creating long term business value The
+demonstrates that a company recognizes how its philanthropic
+strategies can be successful in creating long term business value. The
 Dow Jones Sustainability Indexes questionnaire also asks if the
 company has in place a measurement system although it does not provide
-guidance about what Dow Jones considers to be a good system The review
+guidance about what Dow Jones considers to be a good system. The review
 and findings summarized in this report suggest that companies could
-berated on at least the following criteria 1 The company has
+berated on at least the following criteria: 1. The company has
 documented high quality logic models or understanding of the process
 by which its various types of philanthropic initiatives achieve
-business benefits 2 The company has defined business related outcome
+business benefits; 2. The company has defined business related outcome
 metrics measures them and has in place a rigorous process to improve
-or re align its various philanthropic strategies 3 The company
+or re align its various philanthropic strategies; 3. The company
 systematically tracks social outcomes and compares these to targets or
 benchmarks by which it can monitor whether its philanthropic
-investments are effective overall. A
-general formula for the Residual Income Model commonly used inequity
-valuation reduces the relationship of price to book multiples to cost
-of capital r profitability as measured by Return on Equity ROE and
-growth g P B 1 ROE r r g 28 Lev 2001 29 M argolis Elf en be in Walsh
-2007 p 22 30 The researchers found that tobacco companies enjoyed 14
-21 lower ownership by institutional investors and 15 lower coverage by
-brokerage analysts 31 For example Wang Choi Li 2008 and Lev Petrov its
-Radhakrishnan 2009 found a decreasing rate of return to philanthropic
-spending in their sample of companies while Luo Bhatt acharya 2009
-found in their sample that companies enjoy a stronger link between
-measures of financial and social performance if they are heavy
-investors in advertising and research and development 32 See Swedish
-AP funds join sustainability initiative I PE 2009 September 11 33 He
-in kel Kraus Ze chner 2001 34 The perpetual growth model is often
-represented by the following formula which assumes a constant long
-term growth rate of earnings P earnings r g Substituting an assumption
-of 10 normal cost of capital and 2 long term earnings growth g and
-modeling a drop in the cost of capital r to 9 2 shows an increase of
-11 1 in stock price valuation See Landi er Nair 2008 35 Bec chet ti
-Cici r etti Has an 2009 36 Robinson Kleff ner Bert els 2009 37 The
-report by the Asset Management Working Group of the United Nations
-Environment Programme Finance Initiative and Mercer October 2007
-surveyed the frameworks of several major sell side research firms 38
-SAM Research 2009 Corporate Sustainability Assessment Questionnaire 39
-See press release Risk Metrics Group Announces Acquisition of KL D
-Research Analytics Inc 2009 November 3 Retrieved from http www risk
-metrics com press R MG a quires KL D 40 Vogel 2005 41 Global Reporting
-Initiative 2006 42 See Global Reporting Initiative University of
-HongKong and CSR Asia 2008.
+investments are effective overall. 
 
 # Conclusion 
 
 Philanthropic initiatives provide novel channels through
 which companies can meet core business goals and create long term
 financial value by increasing employee engagement customer loyalty
-reputation al capital and market opportunities These improvements are
+reputation al capital and market opportunities. These improvements are
 most effective when corporate giving teams work in concert with
-existing company operations However some companies do not target or
+existing company operations. However some companies do not target or
 measure the business benefits of their philanthropy possibly because
 these benefits are intangible or not easily associated with short term
-financial profits Measurement frameworks can be introduced by
+financial profits. Measurement frameworks can be introduced by
 leveraging models and evidence developed by related business
 disciplines they can also help identify key intermediate outcomes that
 if targeted can ultimately yield desired business behaviors and
-benefits Scholarly studies have found that these links are not always
-straightforward however It is hoped that the analysis in this report
+benefits. Scholarly studies have found that these links are not always
+straightforward, however. It is hoped that the analysis in this report
 will spark additional research measurement and understanding of these
-mechanisms For example it will be instructive to study how companies
+mechanisms. For example it will be instructive to study how companies
 test and validate the effects of volunteer programs and other
-philanthropic activities on employee engagement and behavior It will
+philanthropic activities on employee engagement and behavior. It will
 also be useful to learn from companies experiences with estimating
 cash flows probabilities discount rates and other model parameters
 that affect the valuation of growth opportunities arising from
-philanthropic projects Many companies already possess related data and
-valuable examples There is much room for those companies to conduct
+philanthropic projects. Many companies already possess related data and
+valuable examples. There is much room for those companies to conduct
 and share thoughtful analyses of methodologies and frameworks without
-disclosing proprietary business information This work is not merely
+disclosing proprietary business information. This work is not merely
 academic it provides actionable research based evidence in support of
 measuring value and promoting more effective alignment of
-philanthropic programs with core business goals A wide range of social
+philanthropic programs with core business goals. A wide range of social
 impact assessment frameworks is available in the social sector many of
 these frameworks have been put forth by sophisticated private
-foundations reflecting their unique needs and goals Given the
-diversity of missions that nonprofit organizations and f under s
+foundations reflecting their unique needs and goals. Given the
+diversity of missions that nonprofit organizations and funders
 pursue there appears to be no single quantitative or qualitative
 methodology against which performance of all grant types can be
-evaluated Which approach a corporate giver should apply will depend on
+evaluated. Which approach a corporate giver should apply will depend on
 the motivation and focus of its philanthropic program.
 
 For example, the appropriate measurement strategy will depend on
 whether a company seeks to meet communal obligations build a signature
 partnership make a few high value grants to one cause make many one
-off grants addressing multiple causes or a combination of these
-Nonprofit organizations face mounting Measurement is not an pressure
-to demonstrate the effectiveness of unnecessary burden or their
-programs Because they can call on un recoverable cost if it internal
-relevant skills and experiences adds value companies are in an apt
+off grants addressing multiple causes or a combination of these.
+Nonprofit organizations face mounting pressure
+to demonstrate the effectiveness of their
+programs. Because they can call on internal
+relevant skills and experiences companies are in an apt
 position to help grant ees emphasize and take advantage of measurement
-both to communicate and improve performance Measurement is not an
-unnecessary burden or un recoverable cost if it adds value Its value
+both to communicate and improve performance. Measurement is not an
+unnecessary burden or unrecoverable cost if it adds value. Its value
 is maximized by organizations that harness it to build and learn from
-data over time In a challenging economic period when organizations
+data over time. In a challenging economic period when organizations
 seek to reduce overhead expenses of any kind it is particularly
 important to distinguish good from bad overhead and to maintain
 funding dedicated to the ongoing improvement of philanthropic bang for
-the buck The investor community increasingly esteems companies with
+the buck. The investor community increasingly esteems companies with
 strong community records Investors reason that such behavior
 represents the quality and foresight of management Investors and
 analysts appreciate disclosures about philanthropic commitments that
-are comparable material and financially relevant Absent effective
+are comparable material and financially relevant. Absent effective
 industry standards companies have an opportunity to distinguish
 themselves in their conversations with the investor community by
-proposing standards of their own Part of such a proposal may include
+proposing standards of their own. Part of such a proposal may include
 detailed insights into the related measurement process which can help
 demonstrate understanding of what drives long term business success
-quality of management and superior potential to create financial value
-The value of corporate philanthropy is measurable as with many
-elements of business however it cannot always be measured as precisely
-as we would like 43 What gets measured gets managed goes the old adage
+quality of management and superior potential to create financial value.
+The value of corporate philanthropy is measurable; as with many
+elements of business, however, it cannot always be measured as precisely
+as we would like. What gets measured gets managed goes the old adage;
 indeed measurement plays a crucial role in enabling companies to reach
 their full potential both philanthropically and as more successful and
 sustainable enterprises overall.
