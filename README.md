@@ -1,16 +1,37 @@
 # FINANCIAL DATA SCIENCE
 
 
-_Financial Data Science_ projects in [Jupyter notebooks](https://terence-lim.github.io/finds-notebooks/), with __FinDS__ [Python package](https://github.com/terence-lim/financial-data-science):
+As financial markets produce vast volumes of structured and unstructured data,
+the ability to extract insights and develop predictive models has become increasingly important.
+[Financial Data Science Python Notebooks](https://terence-lim.github.io/docs/financial-data-science-notebooks/)
+provide a practical guide for analysts, researchers, and data scientists looking to apply Python
+and its broad ecosystem of libraries, tools, frameworks, and community resources
+to financial analysis, econometrics, and machine learning.
 
-- use database engines SQL, Redis, MongoDB
-- interfaces for
-  - structured data from CRSP, Compustat, IBES, TAQ
-  - APIs from ALFRED, BEA
-  - unstructured data from SEC Edgar, Federal Reserve websites
-  - academic websites by Fama and French, Loughran and MacDonald, Hoberg and Phillips
-- recipes for econometrics, finance, graphs, event studies, backtesting
-- applications of statistics, machine learning, NLP, neural networks and LLMs.
+Designed to support financial data science workflows,
+the companion [FinDS Python package](https://github.com/terence-lim/financial-data-science)
+demonstrates how to use database engines such as SQL, Redis, and MongoDB to manage and access large datasets, including:
+
+- Core financial databases such as CRSP, Compustat, IBES, and TAQ
+
+- Public economic data APIs from sources like FRED and the Bureau of Economic Analysis (BEA)
+
+- Structured and unstructured data from academic and research websites
+
+In addition to data access, it provides practical examples and templates for applying:
+
+- Financial econometrics and time series modeling
+
+- Graph analytics, event studies, and backtesting strategies
+
+- Machine learning for predictive analytics
+
+- Natural language processing (NLP) to extract insights from financial text
+
+- Neural networks and large language models (LLMs) for advanced decision-making
+
+
+**March 2025**: Updated with data through early 2025 and incorporated the latest LLMs -- Microsoft Phi-4-multimodal (released Feb 2025), Google Gemma-3-12B (March 2025), DeepSeek-R1-14b (January 2025), Meta Llama-3.1-8B (July 2024), GPT-4o-mini (July 2024).
 
 
 ## Topics
@@ -18,58 +39,62 @@ _Financial Data Science_ projects in [Jupyter notebooks](https://terence-lim.git
 
 | notebook | Financial | Data | Science |
 |:--|:--|:--|:--|
-| stock_prices | Stock distributions, delistings | CRSP stocks | Statistical moments |
-| jegadeesh_titman | Overlapping portfolios; <br> Momentum effect | CRSP stocks | Hypothesis testing; <br> Newey-West estimator |
-| fama_french | Portfolio sorts;  <br> Value effect | CRSP stocks;  <br> Compustat |  Linear regression |
-| fama_macbeth | Cross-sectional Regressions; <br> CAPM | Ken French research library | Non-linear regression; <br> Quadratic optimization |
-| weekly_reversals | Mean reversion; <br> Implementation shortfall | CRSP stocks | Structural breaks; <br> Performance evaluation |
-| quant_factors | Factor investing; <br> Backtests | CRSP stocks; <br> Compustat; IBES | Cluster analysis |
-| event_study | Event studies | S&P key developments | Multiple testing; <br> FFT |
-| economic_releases |  Economic data revisions; <br> Employment payrolls | ALFRED | Outliers |
-| regression_diagnostics | Consumer and<br> producer prices | FRED | Linear regression diagnostics; <br> Residual analysis |
-| econometric_forecast | Production and Inflation | FRED | Time series analysis |
-| approximate_factors | Approximate factor models | FRED-MD | Unit root test |
-| economic_states | State space models | FRED-MD | Gaussian Mixture; <br> HMM |
-| term_structure | Interest rates | FRED yield curve | SVD |
-| bond_returns | Bond risk factors | FRED bond returns | PCA |
-| option_pricing | Binomial tree; <br> Black-Scholes-Merton and the Greeks | simulated data | Monte Carlo simulation |
-| conditional_volatility | Value at risk | FRED crypto-currencies | EWMA; GARCH |
-| covariance_matrix | Portfolio risk | Fama-French industries | Covariance matrix estimation |
-| market_microstructure | Market impact; <br> Liquidity risk | TAQ tick data | High frequency volatility |
-| event_risk | Earnings misses | IBES | Poisson regression; <br> GLM |
-| customer_ego | Supply chain | Compustat principal customers | Graph networks |
-| industry_community | Industry sectors | Hoberg and Phillips <br> research library | Community detection |
-| bea_centrality | Input-output tables | Bureau of Economic Analysis | Graph centrality |
-| link_prediction | Product markets |  Hoberg and Phillips | Link prediction |
-| spatial_regression | Earnings surprises | IBES <br>Hoberg and Phillips | Spatial regression |
-| fomc_topics | FOMC meetings | Federal Reserve website | Topic modeling |
-| mda_sentiment | 10-K Management Discussion | SEC Edgar; <br> Loughran and Macdonald <br> research library | Sentiment analysis |
-| business_description | 10-K Business Description | SEC Edgar | POS tagging; <br> Density-based clustering |
-| classification_models | Industry classification | SEC Edgar | Classification |
-| regression_models | Macroeconomic forecasts | FRED-MD | Regression |
-| deep_classifier | Industry classification | SEC Edgar | Neural networks; <br> Word embeddings |
-| recurrent_net | Macroeconomic forecasts | FRED-MD | Recurrent Neural Nets; <br> Dynamic factor models |
-| convolutional_net | Macroeconomic forecasts | FRED-MD | Convolutional Neural Nets; <br> Vector autoregression |
-| reinforcement_learning | Retirement spending | SBBI | Reinforcement learning |
-| fomc_language | Fedspeak | FOMC meetings minutes | Language modelling; <br> Transformers |
-| sentiment_llm | Financial news sentiment | Kaggle | LLM prompting |
-| summarization_llm | 10-K Market Risks | SEC Edgar | Text summarization |
-| finetune_llm | Industry classification | SEC Edgar | LLM fine-tuning |
-| rag_agent | Corporate philanthropy | text documents | RAG, LLM chatbots and agents |
+| 1.1_stock_prices | Stock price properties | CRSP stocks | Statistical moments |
+| 1.2_jegadeesh_titman | Price momentum | CRSP stocks | Hypothesis testing, <br> Newey-West estimator |
+| 1.3_fama_french | Value and size | CRSP stocks, <br> Compustat |  Linear regression |
+| 1.4_fama_macbeth | CAPM | Fama-French | Non-linear regression, <br> Quadratic optimization |
+| 1.5_contrarian_trading | Mean reversion,<br> Implementation shortfall | CRSP stocks | Structural breaks |
+| 1.6_quant_factors | Factor investing, <br> Backtesting | CRSP stocks, <br> Compustat, IBES | Cluster analysis |
+| 1.7_event_study | Event studies | S&P key developments | Multiple testing, Fourier transforms and convolutions |
+| 2.1_economic_indicators | Economic data revisions, <br> Employment payrolls | ALFRED | Outlier detection |
+| 2.2_regression_diagnostics | Consumer and<br> producer prices | FRED | Linear regression diagnostics|
+| 2.3_time_series | Industrial production<br> and inflation | FRED | Time series analysis |
+| 2.4_approximate_factors | Approximate factor models | FRED-MD | Unit root test, <br>EM Algorithm |
+| 2.5_economic_states | State space models | FRED-MD | Gaussian Mixtures,<br> Hidden Markov Models |
+| 3.1_term_structure | Interest rates | FRED yield curve | Low rank approximation |
+| 3.2_bond_returns | Bonds risk factors | FRED bond returns | Principal component analysis |
+| 3.3_options_pricing | Binomial tree, <br> Black-Scholes-Merton | simulated | Monte Carlo simulations |
+| 3.4_value_at_risk | Value-at-risk | FRED crypto-currencies | Conditional volatility |
+| 3.5_covariance_matrix | Portfolio risk | Fama-French industries | Covariance matrix estimation |
+| 3.6_market_microstructure | Market liquidity | TAQ tick data | High frequency volatility |
+| 3.7_event_risk | Earnings expectations | IBES | Poisson regression, <br> generalized linear model |
+| 4.1_network_graphs | Supply chain | Compustat principal customers | Network graphs |
+| 4.2_community_detection | Industry taxonomy | Hoberg-Phillips | Community detection |
+| 4.3_graph_centrality | Input-output uses | Bureau of Economic Analysis | Graph centrality |
+| 4.4_link_prediction | Product markets |  Hoberg-Phillips | Link prediction |
+| 4.5_spatial_regression | Earnings surprises | IBES, Hoberg-Phillips | Spatial regression |
+| 5.1_fomc_topics | FOMC meetings | Federal Reserve | Topic modeling |
+| 5.2_management_sentiment | Management discussions | SEC Edgar, <br> Loughran-Macdonald | Sentiment analysis |
+| 5.3_business_textual | Business descriptions | SEC Edgar | Part-of-speech,  <br> Density-based clustering |
+| 6.1_classification_models | Industry classification | SEC Edgar | Classification |
+| 6.2_regression_models | Macroeconomic forecasts | FRED-MD | Regression |
+| 6.3_deep_learning | Industry classification | SEC Edgar | Neural networks, <br> word embeddings |
+| 6.4_convolutional_net | Macroeconomic forecasts | FRED-MD | Convolutional Neural Nets, <br> Vector autoregression |
+| 6.5_recurrent_net | Macroeconomic forecasts | FRED-MD | Recurrent Neural Nets, <br> Dynamic factor models |
+| 6.6_reinforcement_learning | Retirement spending | SBBI | Reinforcement learning |
+| 6.7_language_modeling | Fedspeak | Federal Reserve | Language modeling, <br> Transformers |
+| 7.1_large_language_models | Market risk disclosures | SEC Edgar | Text summarization |
+| 7.2_llm_finetuning | Industry classification | SEC Edgar | LLM fine-tuning |
+| 7.3_llm_prompting | Financial news sentiment | Kaggle | Prompt engineering |
+| 7.4_llm_agents | Corporate philanthropy | textbook | Multi-agents, chatbots,<br> retrieval-augmented generation |
 
 
+## Documentation
 
-## Resources
+- [Financial Data Science Notebooks](https://terence-lim.github.io/docs/financial-data-science-notebooks/)
 
-1. [Online Jupyter-book](https://terence-lim.github.io/finds-notebooks/), or [download pdf](https://terence-lim.github.io/notes/financial-data-science.pdf)
+- [Download PDF](https://terence-lim.github.io/docs/financial-data-science-notebooks.pdf)
 
-2. [FinDS API reference](https://terence-lim.github.io/finds/)
+- [FinDS API reference](https://terence-lim.github.io/docs/financial-data-science/)
 
-3. [FinDS repo](https://github.com/terence-lim/financial-data-science)
 
-4. [Jupyter notebooks repo](https://github.com/terence-lim/data-science-notebooks)
+## Github repos
+
+- [FinDS package](https://github.com/terence-lim/financial-data-science)
+
+- [Jupyter notebooks](https://github.com/terence-lim/financial-data-science-notebooks)
 
 
 ## Contact
 
-Github: [https://terence-lim.github.io](https://terence-lim.github.io)
+[https://terence-lim.github.io](https://terence-lim.github.io)
