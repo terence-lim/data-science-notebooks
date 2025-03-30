@@ -76,7 +76,7 @@ In addition to data access, it provides practical examples and templates for app
 | [7.1_large_language_models](7.1_large_language_models.ipynb) | Market risk disclosures | SEC Edgar | Text summarization |
 | [7.2_llm_finetuning](7.2_llm_finetuning.ipynb) | Industry classification | SEC Edgar | LLM fine-tuning |
 | [7.3_llm_prompting](7.3_llm_prompting.ipynb) | Financial news sentiment | Kaggle | Prompt engineering |
-| [7.4_llm_agents](7.4_llm_agents.ipynb) | Corporate philanthropy | textbook | Multi-agents, chatbots,<br> retrieval-augmented generation |
+| [7.4_llm_agents](7.4_llm_agents.ipynb) | Corporate philanthropy | [MVCP textbook](https://www.semanticscholar.org/paper/Measuring-the-Value-of-Corporate-Philanthropy:-and-Lim/261c6ac48cf26bdca49832a6c4812d97569b7065) | Multi-agents, chatbots,<br> retrieval-augmented generation |
 
 
 ## Documentation
