@@ -39,44 +39,44 @@ In addition to data access, it provides practical examples and templates for app
 
 | notebook | Financial | Data | Science |
 |:--|:--|:--|:--|
-| 1.1_stock_prices | Stock price properties | CRSP stocks | Statistical moments |
-| 1.2_jegadeesh_titman | Price momentum | CRSP stocks | Hypothesis testing, <br> Newey-West estimator |
-| 1.3_fama_french | Value and size | CRSP stocks, <br> Compustat |  Linear regression |
-| 1.4_fama_macbeth | CAPM | Fama-French | Non-linear regression, <br> Quadratic optimization |
-| 1.5_contrarian_trading | Mean reversion,<br> Implementation shortfall | CRSP stocks | Structural breaks |
-| 1.6_quant_factors | Factor investing, <br> Backtesting | CRSP stocks, <br> Compustat, IBES | Cluster analysis |
-| 1.7_event_study | Event studies | S&P key developments | Multiple testing, Fourier transforms and convolutions |
-| 2.1_economic_indicators | Economic data revisions, <br> Employment payrolls | ALFRED | Outlier detection |
-| 2.2_regression_diagnostics | Consumer and<br> producer prices | FRED | Linear regression diagnostics|
-| 2.3_time_series | Industrial production<br> and inflation | FRED | Time series analysis |
-| 2.4_approximate_factors | Approximate factor models | FRED-MD | Unit root test, <br>EM Algorithm |
-| 2.5_economic_states | State space models | FRED-MD | Gaussian Mixtures,<br> Hidden Markov Models |
-| 3.1_term_structure | Interest rates | FRED yield curve | Low rank approximation |
-| 3.2_bond_returns | Bonds risk factors | FRED bond returns | Principal component analysis |
-| 3.3_options_pricing | Binomial tree, <br> Black-Scholes-Merton | simulated | Monte Carlo simulations |
-| 3.4_value_at_risk | Value-at-risk | FRED crypto-currencies | Conditional volatility |
-| 3.5_covariance_matrix | Portfolio risk | Fama-French industries | Covariance matrix estimation |
-| 3.6_market_microstructure | Market liquidity | TAQ tick data | High frequency volatility |
-| 3.7_event_risk | Earnings expectations | IBES | Poisson regression, <br> generalized linear model |
-| 4.1_network_graphs | Supply chain | Compustat principal customers | Network graphs |
-| 4.2_community_detection | Industry taxonomy | Hoberg-Phillips | Community detection |
-| 4.3_graph_centrality | Input-output uses | Bureau of Economic Analysis | Graph centrality |
-| 4.4_link_prediction | Product markets |  Hoberg-Phillips | Link prediction |
-| 4.5_spatial_regression | Earnings surprises | IBES, Hoberg-Phillips | Spatial regression |
-| 5.1_fomc_topics | FOMC meetings | Federal Reserve | Topic modeling |
-| 5.2_management_sentiment | Management discussions | SEC Edgar, <br> Loughran-Macdonald | Sentiment analysis |
-| 5.3_business_textual | Business descriptions | SEC Edgar | Part-of-speech,  <br> Density-based clustering |
-| 6.1_classification_models | Industry classification | SEC Edgar | Classification |
-| 6.2_regression_models | Macroeconomic forecasts | FRED-MD | Regression |
-| 6.3_deep_learning | Industry classification | SEC Edgar | Neural networks, <br> word embeddings |
-| 6.4_convolutional_net | Macroeconomic forecasts | FRED-MD | Convolutional Neural Nets, <br> Vector autoregression |
-| 6.5_recurrent_net | Macroeconomic forecasts | FRED-MD | Recurrent Neural Nets, <br> Dynamic factor models |
-| 6.6_reinforcement_learning | Retirement spending | SBBI | Reinforcement learning |
-| 6.7_language_modeling | Fedspeak | Federal Reserve | Language modeling, <br> Transformers |
-| 7.1_large_language_models | Market risk disclosures | SEC Edgar | Text summarization |
-| 7.2_llm_finetuning | Industry classification | SEC Edgar | LLM fine-tuning |
-| 7.3_llm_prompting | Financial news sentiment | Kaggle | Prompt engineering |
-| 7.4_llm_agents | Corporate philanthropy | textbook | Multi-agents, chatbots,<br> retrieval-augmented generation |
+| [1.1_stock_prices](1.1_stock_prices.ipynb) | Stock price properties | CRSP stocks | Statistical moments |
+| [1.2_jegadeesh_titman](1.2_jegadeesh_titman.ipynb) | Price momentum | CRSP stocks | Hypothesis testing, <br> Newey-West estimator |
+| [1.3_fama_french](1.3_fama_french.ipynb) | Value and size | CRSP stocks, <br> Compustat |  Linear regression |
+| [1.4_fama_macbeth](1.4_fama_macbeth.ipynb) | CAPM | Fama-French | Non-linear regression, <br> Quadratic optimization |
+| [1.5_contrarian_trading](1.5_contrarian_trading.ipynb) | Mean reversion,<br> Implementation shortfall | CRSP stocks | Structural breaks |
+| [1.6_quant_factors](1.6_quant_factors.ipynb) | Factor investing, <br> Backtesting | CRSP stocks, <br> Compustat, IBES | Cluster analysis |
+| [1.7_event_study](1.7_event_study.ipynb) | Event studies | S&P key developments | Multiple testing, Fourier transforms and convolutions |
+| [2.1_economic_indicators](2.1_economic_indicators.ipynb) | Economic data revisions, <br> Employment payrolls | ALFRED | Outlier detection |
+| [2.2_regression_diagnostics](2.2_regression_diagnostics.ipynb) | Consumer and<br> producer prices | FRED | Linear regression diagnostics|
+| [2.3_time_series](2.3_time_series.ipynb) | Industrial production<br> and inflation | FRED | Time series analysis |
+| [2.4_approximate_factors](2.4_approximate_factors.ipynb) | Approximate factor models | FRED-MD | Unit root test, <br>EM Algorithm |
+| [2.5_economic_states](2.5_economic_states.ipynb) | State space models | FRED-MD |  Gaussian mixture, <br>hidden Markov models |
+| [3.1_term_structure](3.1_term_structure.ipynb) | Interest rates | FRED yield curve | Low-rank approximation |
+| [3.2_bond_returns](3.2_bond_returns.ipynb) | Bonds risk factors | FRED bond returns | Principal component analysis |
+| [3.3_options_pricing](3.3_options_pricing.ipynb) | Binomial tree, <br> Black-Scholes-Merton | simulated | Monte Carlo simulations |
+| [3.4_value_at_risk](3.4_value_at_risk.ipynb) | Value-at-risk | FRED crypto-currencies | Conditional volatility |
+| [3.5_covariance_matrix](3.5_covariance_matrix.ipynb) | Portfolio risk | Fama-French industries | Covariance matrix estimation |
+| [3.6_market_microstructure](3.6_market_microstructure.ipynb) | Market liquidity | TAQ tick data | High frequency volatility |
+| [3.7_event_risk](3.7_event_risk.ipynb) | Earnings expectations | IBES | Poisson regression, <br> generalized linear model |
+| [4.1_network_graphs](4.1_network_graphs.ipynb) | Supply chain | Compustat principal customers | Network graphs |
+| [4.2_community_detection](4.2_community_detection.ipynb) | Industry taxonomy | Hoberg-Phillips | Community detection |
+| [4.3_graph_centrality](4.3_graph_centrality.ipynb) | Input-output uses | Bureau of Economic Analysis | Graph centrality |
+| [4.4_link_prediction](4.4_link_prediction.ipynb) | Product markets |  Hoberg-Phillips | Link prediction |
+| [4.5_spatial_regression](4.5_spatial_regression.ipynb) | Earnings surprises | IBES, Hoberg-Phillips | Spatial regression |
+| [5.1_fomc_topics](5.1_fomc_topics.ipynb) | FOMC meetings | Federal Reserve | Topic modeling |
+| [5.2_management_sentiment](5.2_management_sentiment.ipynb) | Management discussions | SEC Edgar, <br> Loughran-Macdonald | Sentiment analysis |
+| [5.3_business_textual](5.3_business_textual.ipynb) | Business descriptions | SEC Edgar | Part-of-speech,  <br> Density-based clustering |
+| [6.1_classification_models](6.1_classification_models.ipynb) | Industry classification | SEC Edgar | Classification |
+| [6.2_regression_models](6.2_regression_models.ipynb) | Macroeconomic forecasts | FRED-MD | Regression |
+| [6.3_deep_learning](6.3_deep_learning.ipynb) | Industry classification | SEC Edgar | Neural networks, <br> word embeddings |
+| [6.4_convolutional_net](6.4_convolutional_net.ipynb) | Macroeconomic forecasts | FRED-MD | Convolutional neural nets, <br>vector autoregression |
+| [6.5_recurrent_net](6.5_recurrent_net.ipynb) | Macroeconomic forecasts | FRED-MD | Recurrent neural nets, <br>dynamic factor models |
+| [6.6_reinforcement_learning](6.6_reinforcement_learning.ipynb) | Retirement spending | SBBI | Reinforcement learning |
+| [6.7_language_modeling](6.7_language_modeling.ipynb) | Fedspeak | Federal Reserve | Language modeling, <br> Transformers |
+| [7.1_large_language_models](7.1_large_language_models.ipynb) | Market risk disclosures | SEC Edgar | Text summarization |
+| [7.2_llm_finetuning](7.2_llm_finetuning.ipynb) | Industry classification | SEC Edgar | LLM fine-tuning |
+| [7.3_llm_prompting](7.3_llm_prompting.ipynb) | Financial news sentiment | Kaggle | Prompt engineering |
+| [7.4_llm_agents](7.4_llm_agents.ipynb) | Corporate philanthropy | textbook | Multi-agents, chatbots,<br> retrieval-augmented generation |
 
 
 ## Documentation
